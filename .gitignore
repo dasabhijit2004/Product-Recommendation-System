@@ -1,0 +1,20 @@
+# Python
+ml/.venv/
+__pycache__/
+*.pyc
+
+# ML data
+ml/data/raw/
+ml/data/interim/
+
+# Node/Bun
+web/node_modules/
+web/.next/
+web/bun.lockb
+
+# Models (optional)
+ml/models/
+
+# OS junk
+.DS_Store
+Thumbs.db
