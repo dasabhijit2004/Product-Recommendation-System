@@ -6,6 +6,7 @@ __pycache__/
 # ML data
 ml/data/raw/
 ml/data/interim/
+ml/.env.local
 
 # Node/Bun
 web/node_modules/

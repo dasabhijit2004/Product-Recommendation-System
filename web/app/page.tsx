@@ -1,10 +1,21 @@
 import React from "react";
+import Link from "next/link";
+import Image from "next/image";
+import ProductCard from "@/components/ProductCard";
 
-type Product = {
-  id: string;
+export type Product = {
+  product_id: string;
   name: string;
-  score?: number;
+  brand: string;
+  manufacturer?: string;
+  categories: string;
+  avg_rating: number;
+  num_reviews?: number;
+  sentiment_score: number;
+  final_score?: number;
+  image_url: string;
 };
+
 
 async function getNewUserRecommendations(): Promise<Product[]> {
   const res = await fetch("http://localhost:3000/api/recommendations", {
@@ -12,6 +23,7 @@ async function getNewUserRecommendations(): Promise<Product[]> {
   });
 
   if (!res.ok) {
+    console.error("Failed to fetch recommendations");
     return [];
   }
 
@@ -20,7 +32,7 @@ async function getNewUserRecommendations(): Promise<Product[]> {
 }
 
 export default async function HomePage() {
-  const products = await getNewUserRecommendations();
+  const products: Product[] = await getNewUserRecommendations();
 
   return (
     <main className="min-h-screen bg-slate-950 text-slate-50">
@@ -28,30 +40,18 @@ export default async function HomePage() {
         <h1 className="text-3xl font-bold mb-4">
           Recommended Products for You
         </h1>
+
         <p className="text-slate-300 mb-8">
-          New user view – powered by ML backend (dummy for now).
+          New user view – powered by real ML sentiment model.
         </p>
 
+        {/* If no products */}
         {products.length === 0 ? (
           <p>No recommendations yet. Is the ML server running?</p>
         ) : (
           <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
-            {products.map((p) => (
-              <div
-                key={p.id}
-                className="rounded-xl border border-slate-800 bg-slate-900/60 p-4 shadow-md"
-              >
-                <div className="h-40 w-full rounded-lg bg-gradient-to-br from-sky-500/10 to-emerald-500/10 mb-4" />
-                <h2 className="font-semibold text-lg">{p.name}</h2>
-                {p.score !== undefined && (
-                  <p className="text-sm text-slate-400 mt-1">
-                    Score: {p.score.toFixed(2)}
-                  </p>
-                )}
-                <button className="mt-4 inline-flex items-center justify-center rounded-md bg-sky-500 px-4 py-1.5 text-sm font-medium text-slate-950 hover:bg-sky-400">
-                  View details
-                </button>
-              </div>
+            {products.map((p: Product) => (
+              <ProductCard key={p.product_id} product={p} />
             ))}
           </div>
         )}
