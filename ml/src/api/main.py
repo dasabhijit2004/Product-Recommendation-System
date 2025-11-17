@@ -12,6 +12,8 @@ import pandas as pd
 
 import json
 
+from src.inference.semantic_search import semantic_search
+
 PRODUCTS_PATH = "data/processed/products_with_scores.csv"
 
 app = FastAPI(title="Product Recommendation ML API")
@@ -89,3 +91,12 @@ def get_all_products():
     with open("data/processed/product_catalog.json", "r", encoding="utf-8") as f:
         data = json.load(f)
     return {"products": data}
+
+@app.get("/search")
+def search_products(q: str, limit: int = 20):
+    """
+    Semantic search over products using embeddings.
+    """
+    results = semantic_search(q, top_k=limit)
+    return {"products": results}
+
