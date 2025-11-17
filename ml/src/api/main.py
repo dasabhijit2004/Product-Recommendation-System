@@ -1,14 +1,18 @@
 import sys, os
-# Add project root to Python path (Windows fix)
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import List
 
-# Now imports will work
 from src.inference.sentiment_scorer import predict_sentiment_score
 import random
+
+import pandas as pd
+
+import json
+
+PRODUCTS_PATH = "data/processed/products_with_scores.csv"
 
 app = FastAPI(title="Product Recommendation ML API")
 
@@ -30,28 +34,17 @@ def health_check():
 
 @app.get("/recommend/new-user")
 def recommend_new_user(limit: int = 10):
-    """Get top N products by sentiment score (dummy products for now)."""
-    sample_reviews = [
-        "This is the best product I ever used!",
-        "Really good quality.",
-        "Amazing and very useful.",
-        "It works perfectly.",
-        "Average product but okay.",
-        "Not good, disappointed.",
-    ]
+    """Return top products using sentiment + rating score."""
+    df = pd.read_csv(PRODUCTS_PATH)
 
-    products = []
-    for i in range(limit):
-        review = random.choice(sample_reviews)
-        score = predict_sentiment_score(review)
-        products.append({
-            "id": f"p{i}",
-            "name": f"Product {i}",
-            "sentiment_score": round(score, 3)
-        })
+    # Sort by sentiment_score + avg_rating
+    df["final_score"] = df["sentiment_score"] * 0.7 + df["avg_rating"] * 0.3
 
-    products = sorted(products, key=lambda x: x["sentiment_score"], reverse=True)
-    return {"products": products}
+    df = df.sort_values("final_score", ascending=False).head(limit)
+
+    return {
+        "products": df.to_dict(orient="records")
+    }
 
 
 @app.post("/recommend/existing-user")
@@ -79,3 +72,20 @@ def recommend_contextual(payload: ContextualRequest):
             {"id": "cool-10", "name": "Cooling Pad"},
         ],
     }
+
+@app.get("/products/{product_id}")
+def get_product(product_id: str):
+    with open("data/processed/product_catalog.json", "r", encoding="utf-8") as f:
+        catalog = json.load(f)
+
+    for p in catalog:
+        if p["product_id"] == product_id:
+            return p
+
+    return {"error": "Product not found"}, 404
+
+@app.get("/products/all")
+def get_all_products():
+    with open("data/processed/product_catalog.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return {"products": data}
