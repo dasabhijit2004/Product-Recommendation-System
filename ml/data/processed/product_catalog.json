@@ -8,7 +8,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.949,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Pink%20Friday:%20Roman%20Reloaded%20Re-Up%20(w/dvd)/product.png"
+    "price": 454.01
   },
   {
     "product_id": "AV14LG0R-jtxr-f38QfS",
@@ -19,7 +19,7 @@
     "avg_rating": 5.0,
     "num_reviews": 2,
     "sentiment_score": 0.981,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Lundberg%20Organic%20Cinnamon%20Toast%20Rice%20Cakes/product.png"
+    "price": 1966.53
   },
   {
     "product_id": "AV16khLE-jtxr-f38VFn",
@@ -30,7 +30,7 @@
     "avg_rating": 2.519,
     "num_reviews": 27,
     "sentiment_score": 0.595,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:K-Y%20Love%20Sensuality%20Pleasure%20Gel/product.png"
+    "price": 722.53
   },
   {
     "product_id": "AV1YGDqsGV-KLJ3adc-O",
@@ -41,7 +41,7 @@
     "avg_rating": 4.129,
     "num_reviews": 348,
     "sentiment_score": 0.694,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Windex%20Original%20Glass%20Cleaner%20Refill%2067.6oz%20(2%20Liter)/product.png"
+    "price": 1847.27
   },
   {
     "product_id": "AV1YIch7GV-KLJ3addeG",
@@ -52,7 +52,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.456,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Heinz%20Tomato%20Ketchup,%2038oz/product.png"
+    "price": 1526.68
   },
   {
     "product_id": "AV1YlENIglJLPUi8IHsX",
@@ -63,7 +63,7 @@
     "avg_rating": 4.412,
     "num_reviews": 17,
     "sentiment_score": 0.892,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Kind%20Dark%20Chocolate%20Chunk%20Gluten%20Free%20Granola%20Bars%20-%205%20Count/product.png"
+    "price": 554.22
   },
   {
     "product_id": "AV1YmBrdGV-KLJ3adewb",
@@ -74,7 +74,7 @@
     "avg_rating": 4.667,
     "num_reviews": 18,
     "sentiment_score": 0.885,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Pantene%20Color%20Preserve%20Volume%20Shampoo,%2025.4oz/product.png"
+    "price": 1439.64
   },
   {
     "product_id": "AV1YmDL9vKc47QAVgr7_",
@@ -85,7 +85,7 @@
     "avg_rating": 4.213,
     "num_reviews": 89,
     "sentiment_score": 0.868,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Aussie%20Aussome%20Volume%20Shampoo,%2013.5%20Oz/product.png"
+    "price": 1318.11
   },
   {
     "product_id": "AV1Ymf_rglJLPUi8II2v",
@@ -96,7 +96,7 @@
     "avg_rating": 4.882,
     "num_reviews": 34,
     "sentiment_score": 0.886,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Cars%20Toon:%20Mater's%20Tall%20Tales/product.png"
+    "price": 583.35
   },
   {
     "product_id": "AV1Yn94nvKc47QAVgtst",
@@ -107,7 +107,7 @@
     "avg_rating": 4.76,
     "num_reviews": 25,
     "sentiment_score": 0.828,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:CeraVe%20SA%20Renewing%20Cream/product.png"
+    "price": 765.06
   },
   {
     "product_id": "AV1YnUMYglJLPUi8IJpK",
@@ -118,7 +118,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.787,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Disney174%20Jake%20And%20The%20Neverland%20Pirates%204%20Piece%20Bedding%20Set%20-%20Toddler/product.png"
+    "price": 1116.15
   },
   {
     "product_id": "AV1Ynb3bglJLPUi8IJxJ",
@@ -129,7 +129,7 @@
     "avg_rating": 5.0,
     "num_reviews": 5,
     "sentiment_score": 0.936,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Solo%20Foods%20Almond%20Paste/product.png"
+    "price": 1990.55
   },
   {
     "product_id": "AV1YneDPglJLPUi8IJyQ",
@@ -140,7 +140,7 @@
     "avg_rating": 4.743,
     "num_reviews": 35,
     "sentiment_score": 0.802,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Finish%20Quantum%20Dishwasher%20Detergent,%20Lemon%20Sparkle%20Scent,%2045%20Count/product.png"
+    "price": 1969.41
   },
   {
     "product_id": "AV1Yo6FPglJLPUi8IK3u",
@@ -151,7 +151,7 @@
     "avg_rating": 4.0,
     "num_reviews": 1,
     "sentiment_score": 0.73,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Pearhead%20Id%20Bracelet%20Frame/product.png"
+    "price": 995.61
   },
   {
     "product_id": "AV1YpiJvvKc47QAVguxy",
@@ -162,7 +162,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.938,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Craft%20Punch%20Giga%20Scallop%20Circle%2045%2024687534%20To%20334/product.png"
+    "price": 389.93
   },
   {
     "product_id": "AV1YqAaMGV-KLJ3adiDj",
@@ -173,7 +173,7 @@
     "avg_rating": 3.643,
     "num_reviews": 14,
     "sentiment_score": 0.797,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Neutrogena%20Wet%20Skin%20Sunscreen%20Spray%20Broad%20Spectrum%20SPF%2050,%205oz/product.png"
+    "price": 581.82
   },
   {
     "product_id": "AV1Ys0kTvKc47QAVgx1C",
@@ -184,7 +184,7 @@
     "avg_rating": 4.8,
     "num_reviews": 20,
     "sentiment_score": 0.759,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Meguiar's%20Deep%20Crystal%20Car%20Wash%2064-Oz./product.png"
+    "price": 641.39
   },
   {
     "product_id": "AV1YtGjdglJLPUi8IOfJ",
@@ -195,7 +195,7 @@
     "avg_rating": 4.25,
     "num_reviews": 72,
     "sentiment_score": 0.805,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Banana%20Boat%20Sunless%20Summer%20Color%20Self%20Tanning%20Lotion,%20Light%20To%20Medium/product.png"
+    "price": 252.46
   },
   {
     "product_id": "AV1ZSp2uglJLPUi8IQFy",
@@ -206,7 +206,7 @@
     "avg_rating": 4.429,
     "num_reviews": 7,
     "sentiment_score": 0.954,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Cetaphil%20Gentle%20Skin%20Cleanser,%202oz/product.png"
+    "price": 694.94
   },
   {
     "product_id": "AV1ZT7GLglJLPUi8IQLI",
@@ -217,7 +217,7 @@
     "avg_rating": 3.8,
     "num_reviews": 50,
     "sentiment_score": 0.781,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Suave%20Professionals%20Hair%20Conditioner,%20Sleek/product.png"
+    "price": 440.38
   },
   {
     "product_id": "AV1ZVIgy-jtxr-f31W9N",
@@ -228,7 +228,7 @@
     "avg_rating": 3.889,
     "num_reviews": 9,
     "sentiment_score": 0.759,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Bumble%20Bee%20Solid%20White%20Albacore%20In%20Water%20-%205%20Oz/product.png"
+    "price": 1418.14
   },
   {
     "product_id": "AV1d76w7vKc47QAVhCqn",
@@ -239,7 +239,7 @@
     "avg_rating": 5.0,
     "num_reviews": 6,
     "sentiment_score": 0.933,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:J.R.%20Watkins%20Hand%20Cream,%20Lemon%20Cream/product.png"
+    "price": 1082.44
   },
   {
     "product_id": "AV1h6Gu0glJLPUi8IjA_",
@@ -250,7 +250,7 @@
     "avg_rating": 4.0,
     "num_reviews": 14,
     "sentiment_score": 0.817,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Johnson's%20Baby%20Bubble%20Bath%20and%20Wash,%2015oz/product.png"
+    "price": 967.7
   },
   {
     "product_id": "AV1h6gSl-jtxr-f31p40",
@@ -261,7 +261,7 @@
     "avg_rating": 4.75,
     "num_reviews": 4,
     "sentiment_score": 0.845,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Ambi%20Complexion%20Cleansing%20Bar/product.png"
+    "price": 1093.88
   },
   {
     "product_id": "AV1l8zRZvKc47QAVhnAv",
@@ -272,7 +272,7 @@
     "avg_rating": 4.691,
     "num_reviews": 634,
     "sentiment_score": 0.742,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Olay%20Regenerist%20Deep%20Hydration%20Regenerating%20Cream/product.png"
+    "price": 1190.96
   },
   {
     "product_id": "AV2AvGnjGV-KLJ3alTQH",
@@ -283,7 +283,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.97,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Citrus%20Magic%20Instant%20Spot%20&%20Stain%20Remover/product.png"
+    "price": 2248.91
   },
   {
     "product_id": "AV2Avn5dGV-KLJ3alTjq",
@@ -294,7 +294,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.93,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:La%20Tortilla%20Factory%20Hand%20Made%20Style%20Tortillas%20Flour/product.png"
+    "price": 2499.07
   },
   {
     "product_id": "AV2BOOWS-jtxr-f39GPS",
@@ -305,7 +305,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.989,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Black%20Sister's%20Revenge%20(dvd)/product.png"
+    "price": 562.66
   },
   {
     "product_id": "AVpe-M4-ilAPnD_xSF1K",
@@ -316,7 +316,7 @@
     "avg_rating": 5.0,
     "num_reviews": 2,
     "sentiment_score": 0.743,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Calvin%20Klein%20Secret%20Obsession%20Eau%20De%20Parfum/product.png"
+    "price": 1474.1
   },
   {
     "product_id": "AVpe-MCY1cnluZ0-bCv_",
@@ -327,7 +327,7 @@
     "avg_rating": 3.0,
     "num_reviews": 1,
     "sentiment_score": 0.621,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Wallmount%20Server%20Cabinet%20(450mm,%209%20RU)/product.png"
+    "price": 636.75
   },
   {
     "product_id": "AVpe-PJnLJeJML43ziaj",
@@ -338,7 +338,7 @@
     "avg_rating": 5.0,
     "num_reviews": 9,
     "sentiment_score": 0.921,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Happy%20Tot%20Apple%20and%20Butternut%20Squash/product.png"
+    "price": 2734.21
   },
   {
     "product_id": "AVpe-YAL1cnluZ0-bHGh",
@@ -349,7 +349,7 @@
     "avg_rating": 1.0,
     "num_reviews": 1,
     "sentiment_score": 0.823,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Udi's%20Pepperoni%20Pizza/product.png"
+    "price": 778.07
   },
   {
     "product_id": "AVpe-ltS1cnluZ0-bL8w",
@@ -360,7 +360,7 @@
     "avg_rating": 4.692,
     "num_reviews": 13,
     "sentiment_score": 0.841,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Stander%20Pt%20Bedcane%20-%20Bed%20Handle/product.png"
+    "price": 1105.62
   },
   {
     "product_id": "AVpe31o71cnluZ0-YrSD",
@@ -371,7 +371,7 @@
     "avg_rating": 4.227,
     "num_reviews": 247,
     "sentiment_score": 0.803,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Dark%20Shadows%20(includes%20Digital%20Copy)%20(ultraviolet)%20(dvdvideo)/product.png"
+    "price": 696.55
   },
   {
     "product_id": "AVpe38Uy1cnluZ0-YuJR",
@@ -382,7 +382,7 @@
     "avg_rating": 2.917,
     "num_reviews": 12,
     "sentiment_score": 0.908,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Clambake%20(dvd)/product.png"
+    "price": 172.28
   },
   {
     "product_id": "AVpe3_ikilAPnD_xPykq",
@@ -393,7 +393,7 @@
     "avg_rating": 5.0,
     "num_reviews": 3,
     "sentiment_score": 0.839,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Alberto%20VO5%20Salon%20Series%20Smooth%20Plus%20Sleek%20Shampoo/product.png"
+    "price": 282.2
   },
   {
     "product_id": "AVpe4-GPLJeJML43xmuY",
@@ -404,7 +404,7 @@
     "avg_rating": 2.0,
     "num_reviews": 1,
     "sentiment_score": 0.928,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Progresso%20Traditional%20Meatball%20&%20Rice%20Soup/product.png"
+    "price": 332.72
   },
   {
     "product_id": "AVpe41TqilAPnD_xQH3d",
@@ -415,7 +415,7 @@
     "avg_rating": 4.304,
     "num_reviews": 757,
     "sentiment_score": 0.657,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Mike%20Dave%20Need%20Wedding%20Dates%20(dvd%20+%20Digital)/product.png"
+    "price": 292.22
   },
   {
     "product_id": "AVpe4Bq81cnluZ0-YwTN",
@@ -426,7 +426,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.903,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Sea%20Gull%20Lighting%20Ceiling%20Fan%20-%20White/product.png"
+    "price": 447.5
   },
   {
     "product_id": "AVpe4hE0ilAPnD_xQABx",
@@ -437,7 +437,7 @@
     "avg_rating": 4.0,
     "num_reviews": 1,
     "sentiment_score": 0.987,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Herr's%20Baked%20Cheese%20Curls/product.png"
+    "price": 942.42
   },
   {
     "product_id": "AVpe4hlXLJeJML43xbrB",
@@ -448,7 +448,7 @@
     "avg_rating": 4.591,
     "num_reviews": 22,
     "sentiment_score": 0.904,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Hawaiian%20Punch%20Berry%20Limeade%20Blast%20Juice/product.png"
+    "price": 1939.67
   },
   {
     "product_id": "AVpe4pnBilAPnD_xQDeb",
@@ -459,7 +459,7 @@
     "avg_rating": 3.6,
     "num_reviews": 5,
     "sentiment_score": 0.907,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Moom%20Express%20Pre%20Waxed%20Strips%20For%20Face%20&%20Bikini/product.png"
+    "price": 923.93
   },
   {
     "product_id": "AVpe59io1cnluZ0-ZgDU",
@@ -470,7 +470,7 @@
     "avg_rating": 4.491,
     "num_reviews": 668,
     "sentiment_score": 0.678,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:My%20Big%20Fat%20Greek%20Wedding%202%20(blu-Ray%20+%20Dvd%20+%20Digital)/product.png"
+    "price": 209.7
   },
   {
     "product_id": "AVpe5AMsLJeJML43xnku",
@@ -481,7 +481,7 @@
     "avg_rating": 4.5,
     "num_reviews": 2,
     "sentiment_score": 0.995,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:King%20Ralph%20(dvd)/product.png"
+    "price": 559.17
   },
   {
     "product_id": "AVpe5JOgilAPnD_xQPfE",
@@ -492,7 +492,7 @@
     "avg_rating": 4.564,
     "num_reviews": 39,
     "sentiment_score": 0.845,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:The%20Script%20-%20No%20Sound%20Without%20Silence%20(cd)/product.png"
+    "price": 185.47
   },
   {
     "product_id": "AVpe5Mv4ilAPnD_xQQyy",
@@ -503,7 +503,7 @@
     "avg_rating": 4.5,
     "num_reviews": 4,
     "sentiment_score": 0.852,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Beanitos%20Bean%20Chips,%20Simply%20Pinto%20Bean/product.png"
+    "price": 2791.92
   },
   {
     "product_id": "AVpe5WElLJeJML43xv4b",
@@ -514,7 +514,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.952,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Lite%20Source%20Basic%20Ii%201-Lt%20Floor%20Lamp%20-%20Dark%20Bronze/product.png"
+    "price": 658.88
   },
   {
     "product_id": "AVpe5c23LJeJML43xybi",
@@ -525,7 +525,7 @@
     "avg_rating": 3.5,
     "num_reviews": 32,
     "sentiment_score": 0.805,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Holmes174%20Personal%20Indoor%20Heater%20W/%20Manual%20Controls%20White%201500w%20Hfh131-N/product.png"
+    "price": 1006.89
   },
   {
     "product_id": "AVpe5s3RLJeJML43x4eA",
@@ -536,7 +536,7 @@
     "avg_rating": 4.235,
     "num_reviews": 136,
     "sentiment_score": 0.884,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Pantene%20Pro-V%20Expert%20Collection%20Age%20Defy%20Conditioner/product.png"
+    "price": 1160.97
   },
   {
     "product_id": "AVpe5tC61cnluZ0-ZZ86",
@@ -547,7 +547,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.995,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Greyson%20Vintage%20Industrial%20Occasional%20Cocktail%20Coffee%20Table%20-%20Antique%20Bronze%20-%20Baxton%20Studio/product.png"
+    "price": 1331.63
   },
   {
     "product_id": "AVpe5ttZLJeJML43x4yO",
@@ -558,7 +558,7 @@
     "avg_rating": 4.5,
     "num_reviews": 4,
     "sentiment_score": 0.691,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Nature's%20Path%20Flax%20Plus%20Maple%20Pecan%20Crunch%20Cereal/product.png"
+    "price": 2896.45
   },
   {
     "product_id": "AVpe625_ilAPnD_xQ4SP",
@@ -569,7 +569,7 @@
     "avg_rating": 2.0,
     "num_reviews": 1,
     "sentiment_score": 0.686,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Sunflower%20Swag%20With%20Metal%20Frame%20-%20Nearly%20Natural/product.png"
+    "price": 424.72
   },
   {
     "product_id": "AVpe6C3WLJeJML43yApY",
@@ -580,7 +580,7 @@
     "avg_rating": 2.0,
     "num_reviews": 4,
     "sentiment_score": 0.904,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Toy%20Story%20Kids'%20Woody%20Accessory%20Kit/product.png"
+    "price": 956.84
   },
   {
     "product_id": "AVpe6CHv1cnluZ0-ZhwN",
@@ -591,7 +591,7 @@
     "avg_rating": 4.118,
     "num_reviews": 17,
     "sentiment_score": 0.758,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Maranatha%20No%20Stir%20Raw%20Maple%20Almond%20Butter/product.png"
+    "price": 1764.21
   },
   {
     "product_id": "AVpe6FfKilAPnD_xQmHi",
@@ -602,7 +602,7 @@
     "avg_rating": 4.379,
     "num_reviews": 29,
     "sentiment_score": 0.848,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Chex%20Muddy%20Buddies%20Brownie%20Supreme%20Snack%20Mix/product.png"
+    "price": 1011.24
   },
   {
     "product_id": "AVpe6FpaLJeJML43yBuP",
@@ -613,7 +613,7 @@
     "avg_rating": 4.926,
     "num_reviews": 68,
     "sentiment_score": 0.897,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Sopranos:Season%206%20Part%201%20(blu-Ray)/product.png"
+    "price": 267.03
   },
   {
     "product_id": "AVpe6PCDLJeJML43yFQH",
@@ -624,7 +624,7 @@
     "avg_rating": 3.0,
     "num_reviews": 5,
     "sentiment_score": 0.732,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Wagan%20Smartac%2080watt%20Inverter%20With%20Usb/product.png"
+    "price": 596.38
   },
   {
     "product_id": "AVpe6_VI1cnluZ0-Z4do",
@@ -635,7 +635,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.48,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Sloan%20Royal%20Urinal%20Flush%20Valve,%201.0%20Gpf,%20Royal%20186-1/product.png"
+    "price": 1654.38
   },
   {
     "product_id": "AVpe6n2_LJeJML43yOgE",
@@ -646,7 +646,7 @@
     "avg_rating": 4.439,
     "num_reviews": 57,
     "sentiment_score": 0.896,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Tresemme%20Kertatin%20Smooth%20Infusing%20Conditioning/product.png"
+    "price": 586.4
   },
   {
     "product_id": "AVpe71Vk1cnluZ0-aL_Z",
@@ -657,7 +657,7 @@
     "avg_rating": 3.917,
     "num_reviews": 12,
     "sentiment_score": 0.886,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Creme%20Of%20Nature%20Intensive%20Conditioning%20Treatment,%2032/product.png"
+    "price": 225.38
   },
   {
     "product_id": "AVpe78stLJeJML43ytOY",
@@ -668,7 +668,7 @@
     "avg_rating": 3.944,
     "num_reviews": 18,
     "sentiment_score": 0.731,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Arrid%20Extra%20Dry%20Anti-Perspirant%20Deodorant%20Spray%20Regular/product.png"
+    "price": 529.23
   },
   {
     "product_id": "AVpe7GIELJeJML43yZfu",
@@ -679,7 +679,7 @@
     "avg_rating": 4.867,
     "num_reviews": 15,
     "sentiment_score": 0.9,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Eagle%20Fat%20Free%20Sweetened%20Condensed%20Milk/product.png"
+    "price": 2852.68
   },
   {
     "product_id": "AVpe7JTHilAPnD_xQ_Cl",
@@ -690,7 +690,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.899,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Wedding%20Wishes%20Wedding%20Guest%20Book/product.png"
+    "price": 148.41
   },
   {
     "product_id": "AVpe7jB8LJeJML43yj91",
@@ -701,7 +701,7 @@
     "avg_rating": 5.0,
     "num_reviews": 6,
     "sentiment_score": 0.863,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Pinaud%20Clubman%20Styling%20Gel,%20Superhold/product.png"
+    "price": 763.25
   },
   {
     "product_id": "AVpe7sl91cnluZ0-aI1Y",
@@ -712,7 +712,7 @@
     "avg_rating": 4.698,
     "num_reviews": 43,
     "sentiment_score": 0.784,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Diet%20Canada%20Dry%20Ginger%20Ale%20-%2012pk/12%20Fl%20Oz%20Cans/product.png"
+    "price": 2908.25
   },
   {
     "product_id": "AVpe7tA31cnluZ0-aI-r",
@@ -723,7 +723,7 @@
     "avg_rating": 4.625,
     "num_reviews": 8,
     "sentiment_score": 0.906,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Baxter%20Of%20California%20Cream%20Pomade/product.png"
+    "price": 1109.88
   },
   {
     "product_id": "AVpe7zdzLJeJML43yp3d",
@@ -734,7 +734,7 @@
     "avg_rating": 4.5,
     "num_reviews": 22,
     "sentiment_score": 0.792,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Ragu%20Roasted%20Garlic%20Parmesan%20Pasta%20Sauce/product.png"
+    "price": 1368.41
   },
   {
     "product_id": "AVpe8dHWLJeJML43y4uG",
@@ -745,7 +745,7 @@
     "avg_rating": 4.385,
     "num_reviews": 13,
     "sentiment_score": 0.892,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Sabre%202%20Pack%20Door%20And%20Window%20Alarm/product.png"
+    "price": 739.55
   },
   {
     "product_id": "AVpe8gsILJeJML43y6Ed",
@@ -756,7 +756,7 @@
     "avg_rating": 4.19,
     "num_reviews": 310,
     "sentiment_score": 0.742,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Pendaflex174%20Divide%20It%20Up%20File%20Folder,%20Multi%20Section,%20Letter,%20Assorted,%2012/pack/product.png"
+    "price": 527.3
   },
   {
     "product_id": "AVpe8q4T1cnluZ0-afct",
@@ -767,7 +767,7 @@
     "avg_rating": 3.333,
     "num_reviews": 6,
     "sentiment_score": 0.786,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Newman's%20Own%20Organics%20Licorice%20Twist,%20Black%205oz/product.png"
+    "price": 1933.37
   },
   {
     "product_id": "AVpe8xjUilAPnD_xRkxC",
@@ -778,7 +778,7 @@
     "avg_rating": 4.2,
     "num_reviews": 20,
     "sentiment_score": 0.866,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:The%20Honest%20Company%20Laundry%20Detergent/product.png"
+    "price": 1554.85
   },
   {
     "product_id": "AVpe9W4D1cnluZ0-avf0",
@@ -789,7 +789,7 @@
     "avg_rating": 4.39,
     "num_reviews": 362,
     "sentiment_score": 0.73,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Hoover174%20Platinum%20Collection153%20Lightweight%20Bagged%20Upright%20Vacuum%20With%20Canister%20-%20Uh30010com/product.png"
+    "price": 1459.84
   },
   {
     "product_id": "AVpe9vHs1cnluZ0-a4TU",
@@ -800,7 +800,7 @@
     "avg_rating": 4.2,
     "num_reviews": 5,
     "sentiment_score": 0.808,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Plano%20Mini-Magnum%2013-Compartment%20Tackle%20Box/product.png"
+    "price": 216.81
   },
   {
     "product_id": "AVpe_5U_ilAPnD_xSrxG",
@@ -811,7 +811,7 @@
     "avg_rating": 4.333,
     "num_reviews": 3,
     "sentiment_score": 0.916,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Sea%20Gull%20Lighting%20Six%20Light%20Bath%20Sconce/vanity%20-%20Brushed%20Nickel/product.png"
+    "price": 370.3
   },
   {
     "product_id": "AVpe_N91LJeJML43z4jD",
@@ -822,7 +822,7 @@
     "avg_rating": 3.818,
     "num_reviews": 11,
     "sentiment_score": 0.931,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Way%20Basics%203-Shelf%20Eco%20Narrow%20Bookcase%20Storage%20Shelf,%20Espresso%20-%20Formaldehyde%20Free%20-%20Lifetime%20Guarantee/product.png"
+    "price": 1869.5
   },
   {
     "product_id": "AVpe_dxlilAPnD_xSiHI",
@@ -833,7 +833,7 @@
     "avg_rating": 4.111,
     "num_reviews": 9,
     "sentiment_score": 0.954,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:The%20Seaweed%20Bath%20Co.%20Argan%20Conditioner,%20Smoothing%20Citrus/product.png"
+    "price": 518.87
   },
   {
     "product_id": "AVpe_pDG1cnluZ0-bjSf",
@@ -844,7 +844,7 @@
     "avg_rating": 4.625,
     "num_reviews": 8,
     "sentiment_score": 0.929,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Bi-O-kleen%20Spray%20&%20Wipe%20All%20Purpose%20Cleaner/product.png"
+    "price": 2336.55
   },
   {
     "product_id": "AVpe_y-I1cnluZ0-bmvh",
@@ -855,7 +855,7 @@
     "avg_rating": 4.662,
     "num_reviews": 65,
     "sentiment_score": 0.881,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Yes%20To%20Carrots%20Nourishing%20Body%20Wash/product.png"
+    "price": 583.92
   },
   {
     "product_id": "AVpf--o9LJeJML43G_Fq",
@@ -866,7 +866,7 @@
     "avg_rating": 4.719,
     "num_reviews": 96,
     "sentiment_score": 0.891,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Vaseline%20Intensive%20Care%20Healthy%20Hands%20Stronger%20Nails/product.png"
+    "price": 493.34
   },
   {
     "product_id": "AVpf-GsfLJeJML43GxG4",
@@ -877,7 +877,7 @@
     "avg_rating": 4.333,
     "num_reviews": 6,
     "sentiment_score": 0.838,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Gain%20Original%20Scent%20Liquid%20Fabric%20Softener%20129%20Oz/product.png"
+    "price": 340.75
   },
   {
     "product_id": "AVpf-bS61cnluZ0-uZcq",
@@ -888,7 +888,7 @@
     "avg_rating": 4.0,
     "num_reviews": 2,
     "sentiment_score": 0.927,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Nature's%20Path%20Chunky%20Chocolate%20Peanut%20Chewy%20Granola%20Bars/product.png"
+    "price": 1317.83
   },
   {
     "product_id": "AVpf-k78LJeJML43G4qN",
@@ -899,7 +899,7 @@
     "avg_rating": 4.769,
     "num_reviews": 13,
     "sentiment_score": 0.884,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Metzeler%20ME888%20Marathon%20Ultra%20Custom%20Touring%20Front%20Tire%20100/90-19/product.png"
+    "price": 1608.12
   },
   {
     "product_id": "AVpf-lMV1cnluZ0-ub0_",
@@ -910,7 +910,7 @@
     "avg_rating": 4.75,
     "num_reviews": 4,
     "sentiment_score": 0.94,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:If%20A%20Man%20Answers%20(dvd)/product.png"
+    "price": 396.13
   },
   {
     "product_id": "AVpf0O60ilAPnD_xizE6",
@@ -921,7 +921,7 @@
     "avg_rating": 4.583,
     "num_reviews": 24,
     "sentiment_score": 0.762,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Super%20Poligrip%20Denture%20Adhesive%20Cream,%20Ultra%20Fresh%20-%202.4%20Oz/product.png"
+    "price": 1284.0
   },
   {
     "product_id": "AVpf0YhQLJeJML43ETff",
@@ -932,7 +932,7 @@
     "avg_rating": 4.912,
     "num_reviews": 34,
     "sentiment_score": 0.839,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Australian%20Gold%20Exotic%20Blend%20Lotion,%20SPF%204/product.png"
+    "price": 962.03
   },
   {
     "product_id": "AVpf0eb2LJeJML43EVSt",
@@ -943,7 +943,7 @@
     "avg_rating": 4.675,
     "num_reviews": 845,
     "sentiment_score": 0.783,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:The%20Resident%20Evil%20Collection%205%20Discs%20(blu-Ray)/product.png"
+    "price": 493.95
   },
   {
     "product_id": "AVpf0kZFilAPnD_xi5QZ",
@@ -954,7 +954,7 @@
     "avg_rating": 4.714,
     "num_reviews": 7,
     "sentiment_score": 0.82,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Annie's%20Homegrown%20Gluten%20Free%20Double%20Chocolate%20Chip%20Granola%20Bars/product.png"
+    "price": 336.5
   },
   {
     "product_id": "AVpf0pfrilAPnD_xi6s_",
@@ -965,7 +965,7 @@
     "avg_rating": 4.5,
     "num_reviews": 6,
     "sentiment_score": 0.851,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Nearly%20Natural%205.5'%20Bamboo%20W/decorative%20Planter/product.png"
+    "price": 1358.34
   },
   {
     "product_id": "AVpf0thK1cnluZ0-r8vR",
@@ -976,7 +976,7 @@
     "avg_rating": 4.712,
     "num_reviews": 139,
     "sentiment_score": 0.889,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:100:Complete%20First%20Season%20(blu-Ray)/product.png"
+    "price": 876.55
   },
   {
     "product_id": "AVpf1pwXLJeJML43EqpT",
@@ -987,7 +987,7 @@
     "avg_rating": 4.75,
     "num_reviews": 4,
     "sentiment_score": 0.918,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Colorganics%20Lipstick,%20Cayenne/product.png"
+    "price": 299.05
   },
   {
     "product_id": "AVpf1ryk1cnluZ0-sONd",
@@ -998,7 +998,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.915,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Germ%20Guardian174%20Elite%203-In-1%20Pet%20Pure%20True%20Hepa%20Air%20Purifier%20Ac4300bptca/product.png"
+    "price": 1990.43
   },
   {
     "product_id": "AVpf2tw1ilAPnD_xjflC",
@@ -1009,7 +1009,7 @@
     "avg_rating": 4.652,
     "num_reviews": 672,
     "sentiment_score": 0.824,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Red%20(special%20Edition)%20(dvdvideo)/product.png"
+    "price": 224.0
   },
   {
     "product_id": "AVpf385g1cnluZ0-s0_t",
@@ -1020,7 +1020,7 @@
     "avg_rating": 4.311,
     "num_reviews": 196,
     "sentiment_score": 0.607,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Hormel%20Chili,%20No%20Beans/product.png"
+    "price": 1620.99
   },
   {
     "product_id": "AVpf3VOfilAPnD_xjpun",
@@ -1031,7 +1031,7 @@
     "avg_rating": 4.82,
     "num_reviews": 8545,
     "sentiment_score": 0.82,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Clorox%20Disinfecting%20Wipes%20Value%20Pack%20Scented%20150%20Ct%20Total/product.png"
+    "price": 1470.66
   },
   {
     "product_id": "AVpf3okQLJeJML43FMif",
@@ -1042,7 +1042,7 @@
     "avg_rating": 3.7,
     "num_reviews": 20,
     "sentiment_score": 0.748,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Tai%20Pei%20Sweet%20&%20Sour%20Chicken/product.png"
+    "price": 2374.35
   },
   {
     "product_id": "AVpf4WWN1cnluZ0-s7Wj",
@@ -1053,7 +1053,7 @@
     "avg_rating": 4.0,
     "num_reviews": 3,
     "sentiment_score": 0.826,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Chips%20Deluxe%20Soft%20'n%20Chewy%20Cookies/product.png"
+    "price": 2626.58
   },
   {
     "product_id": "AVpf4oLxLJeJML43FcxC",
@@ -1064,7 +1064,7 @@
     "avg_rating": 4.885,
     "num_reviews": 313,
     "sentiment_score": 0.856,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Avery174%20Ready%20Index%20Contemporary%20Table%20Of%20Contents%20Divider,%201-8,%20Multi,%20Letter/product.png"
+    "price": 1812.48
   },
   {
     "product_id": "AVpf5CnILJeJML43FjaU",
@@ -1075,7 +1075,7 @@
     "avg_rating": 4.833,
     "num_reviews": 12,
     "sentiment_score": 0.882,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:WeatherTech%2040647%2014-15%20Outlander%20Cargo%20Liners%20Behind%202nd%20Row,%20Black/product.png"
+    "price": 2196.3
   },
   {
     "product_id": "AVpf5FF71cnluZ0-tHAV",
@@ -1086,7 +1086,7 @@
     "avg_rating": 4.674,
     "num_reviews": 46,
     "sentiment_score": 0.774,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Orajel%20Maximum%20Strength%20Toothache%20Pain%20Relief%20Liquid/product.png"
+    "price": 1783.74
   },
   {
     "product_id": "AVpf5Z1zLJeJML43FpB-",
@@ -1097,7 +1097,7 @@
     "avg_rating": 4.748,
     "num_reviews": 155,
     "sentiment_score": 0.833,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Lysol%20Concentrate%20Deodorizing%20Cleaner,%20Original%20Scent/product.png"
+    "price": 1621.54
   },
   {
     "product_id": "AVpf5ZcH1cnluZ0-tL9V",
@@ -1108,7 +1108,7 @@
     "avg_rating": 5.0,
     "num_reviews": 2,
     "sentiment_score": 0.944,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Coola%20Organic%20Sunscreen%20Classic%20Face%20Cucumber%20SPF%2030/product.png"
+    "price": 797.11
   },
   {
     "product_id": "AVpf5olc1cnluZ0-tPrO",
@@ -1119,7 +1119,7 @@
     "avg_rating": 4.819,
     "num_reviews": 177,
     "sentiment_score": 0.758,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Chester's%20Cheese%20Flavored%20Puffcorn%20Snacks/product.png"
+    "price": 2146.36
   },
   {
     "product_id": "AVpf5ujMilAPnD_xkQVi",
@@ -1130,7 +1130,7 @@
     "avg_rating": 2.571,
     "num_reviews": 7,
     "sentiment_score": 0.827,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:D-Con%20Mice%20Bait%20Station%20-%203ct/product.png"
+    "price": 1665.38
   },
   {
     "product_id": "AVpf63aJLJeJML43F__Q",
@@ -1141,7 +1141,7 @@
     "avg_rating": 4.651,
     "num_reviews": 873,
     "sentiment_score": 0.764,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Burt's%20Bees%20Lip%20Shimmer,%20Raisin/product.png"
+    "price": 1459.77
   },
   {
     "product_id": "AVpf7HOwilAPnD_xkl3L",
@@ -1152,7 +1152,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 1.0,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Wilton%20Black%20Dots%20Standard%20Baking%20Cups/product.png"
+    "price": 466.8
   },
   {
     "product_id": "AVpf7I3i1cnluZ0-tnL6",
@@ -1163,7 +1163,7 @@
     "avg_rating": 4.414,
     "num_reviews": 29,
     "sentiment_score": 0.921,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Mrs.%20Meyer's174%20Lemon%20Verbena%20Laundry%20Scent%20Booster%20-%2018oz/product.png"
+    "price": 1341.85
   },
   {
     "product_id": "AVpf7LysilAPnD_xkm9G",
@@ -1174,7 +1174,7 @@
     "avg_rating": 4.388,
     "num_reviews": 103,
     "sentiment_score": 0.88,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Cuisinart174%20Electric%20Juicer%20-%20Stainless%20Steel%20Cje-1000/product.png"
+    "price": 491.93
   },
   {
     "product_id": "AVpf7aUAilAPnD_xkqbP",
@@ -1185,7 +1185,7 @@
     "avg_rating": 4.875,
     "num_reviews": 8,
     "sentiment_score": 0.886,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:SC%20Johnson%20One%20Step%20No%20Buff%20Wax/product.png"
+    "price": 1626.88
   },
   {
     "product_id": "AVpf7fFbilAPnD_xkrmW",
@@ -1196,7 +1196,7 @@
     "avg_rating": 5.0,
     "num_reviews": 4,
     "sentiment_score": 0.885,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Simple%20Green%20All-Purpose%20Cleaner,%2016oz/product.png"
+    "price": 2158.45
   },
   {
     "product_id": "AVpf8AoBilAPnD_xkzJ2",
@@ -1207,7 +1207,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.97,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Avery174%2011-1/4%20X%209-1/4%20Index%20Maker%20Extra%20Wide%20Label%20Dividers%20With%205%20Tab%20-%20Clear%20(5%20Sets%20Per%20Pack)/product.png"
+    "price": 1087.63
   },
   {
     "product_id": "AVpf99c6LJeJML43Gu3K",
@@ -1218,7 +1218,7 @@
     "avg_rating": 5.0,
     "num_reviews": 4,
     "sentiment_score": 0.949,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Romantic%20Drama:%20Greatest%20Classic%20Films%20Collection%202%20Discs/product.png"
+    "price": 115.73
   },
   {
     "product_id": "AVpf9UGp1cnluZ0-uITX",
@@ -1229,7 +1229,7 @@
     "avg_rating": 3.75,
     "num_reviews": 8,
     "sentiment_score": 0.771,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Post%20Bound%20Jumbo%20Album%20-%20Burgundy%20(11x14)/product.png"
+    "price": 419.94
   },
   {
     "product_id": "AVpf9_3MLJeJML43GvdB",
@@ -1240,7 +1240,7 @@
     "avg_rating": 4.267,
     "num_reviews": 15,
     "sentiment_score": 0.936,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Iman%20Second%20To%20None%20Stick%20Foundation,%20Clay%201/product.png"
+    "price": 617.38
   },
   {
     "product_id": "AVpf9pzn1cnluZ0-uNTM",
@@ -1251,7 +1251,7 @@
     "avg_rating": 4.782,
     "num_reviews": 412,
     "sentiment_score": 0.76,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Lundberg%20Wehani%20Rice,%2025lb/product.png"
+    "price": 2423.32
   },
   {
     "product_id": "AVpfA5BeLJeJML430eOi",
@@ -1262,7 +1262,7 @@
     "avg_rating": 3.5,
     "num_reviews": 2,
     "sentiment_score": 0.873,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Charcoal%20Stone%20Toothbrush%20Holder%20Gray/product.png"
+    "price": 1066.42
   },
   {
     "product_id": "AVpfAgSp1cnluZ0-b2-K",
@@ -1273,7 +1273,7 @@
     "avg_rating": 4.897,
     "num_reviews": 87,
     "sentiment_score": 0.896,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Bounce%20Dryer%20Sheets,%20Fresh%20Linen,%20160%20sheets/product.png"
+    "price": 2425.18
   },
   {
     "product_id": "AVpfAkX91cnluZ0-b4d8",
@@ -1284,7 +1284,7 @@
     "avg_rating": 3.909,
     "num_reviews": 22,
     "sentiment_score": 0.89,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:L'oreal%20Paris%20Visible%20Lift%20Smooth%20Absolute,%20Natural%20Buff/product.png"
+    "price": 1050.51
   },
   {
     "product_id": "AVpfBO2vLJeJML430mGh",
@@ -1295,7 +1295,7 @@
     "avg_rating": 4.6,
     "num_reviews": 10,
     "sentiment_score": 0.93,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Mill%20Creek%20Aloe%20Vera%20&%20Paba%20Lotion/product.png"
+    "price": 1398.42
   },
   {
     "product_id": "AVpfBSJgilAPnD_xTLf3",
@@ -1306,7 +1306,7 @@
     "avg_rating": 4.254,
     "num_reviews": 59,
     "sentiment_score": 0.812,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Axe%20Dry%20Anti-Perspirant%20Deodorant%20Invisible%20Solid%20Phoenix/product.png"
+    "price": 431.19
   },
   {
     "product_id": "AVpfBU2S1cnluZ0-cJsO",
@@ -1317,7 +1317,7 @@
     "avg_rating": 4.462,
     "num_reviews": 39,
     "sentiment_score": 0.79,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Power%20Crunch%20Protein%20Energy%20Bar%20Peanut%20Butter%20Creme%20Original/product.png"
+    "price": 907.04
   },
   {
     "product_id": "AVpfBeN6LJeJML430rrn",
@@ -1328,7 +1328,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.991,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Roommates%20No%20Place%20Like%20Home%20Peel%20Stick%20Wall%20Decals/product.png"
+    "price": 1286.49
   },
   {
     "product_id": "AVpfBpnEilAPnD_xTUBx",
@@ -1339,7 +1339,7 @@
     "avg_rating": 4.909,
     "num_reviews": 11,
     "sentiment_score": 0.729,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:All,bran%20Complete%20Wheat%20Flakes,%2018%20Oz./product.png"
+    "price": 2357.71
   },
   {
     "product_id": "AVpfBrUZilAPnD_xTUly",
@@ -1350,7 +1350,7 @@
     "avg_rating": 4.646,
     "num_reviews": 158,
     "sentiment_score": 0.834,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Coty%20Airspun%20Face%20Powder,%20Translucent%20Extra%20Coverage/product.png"
+    "price": 601.59
   },
   {
     "product_id": "AVpfBuqY1cnluZ0-cTBI",
@@ -1361,7 +1361,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 1.0,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:42%20Dual%20Drop%20Leaf%20Table%20with%202%20Madrid%20Chairs\"/product.png"
+    "price": 1865.71
   },
   {
     "product_id": "AVpfBwE4ilAPnD_xTWO1",
@@ -1372,7 +1372,7 @@
     "avg_rating": 5.0,
     "num_reviews": 2,
     "sentiment_score": 0.815,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Smead174%20Recycled%20Letter%20Size%20Manila%20File%20Backs%20W/prong%20Fasteners,%202%20Capacity,%20100/box/product.png"
+    "price": 729.83
   },
   {
     "product_id": "AVpfC3KoLJeJML431KRR",
@@ -1383,7 +1383,7 @@
     "avg_rating": 3.0,
     "num_reviews": 2,
     "sentiment_score": 0.592,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Nearly%20Natural%20Pothos%20Ledge%20Plant%20(set%20On%20Foam)%20Silk%20Plant/product.png"
+    "price": 227.31
   },
   {
     "product_id": "AVpfCi3kilAPnD_xTn3k",
@@ -1394,7 +1394,7 @@
     "avg_rating": 4.0,
     "num_reviews": 8,
     "sentiment_score": 0.866,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Little%20Bedding%20By%20Nojo%20Jungle%20Dreams%202%20Pack%20Sheet%20Set/product.png"
+    "price": 1860.9
   },
   {
     "product_id": "AVpfCjEEilAPnD_xTn75",
@@ -1405,7 +1405,7 @@
     "avg_rating": 4.875,
     "num_reviews": 16,
     "sentiment_score": 0.874,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Sizzix%20Framelits%20Dies%201by%20Tim%20Holtz%20Bird%20Crazy-Silver%20Asst%20Sizes/product.png"
+    "price": 1798.49
   },
   {
     "product_id": "AVpfCuzrilAPnD_xTroT",
@@ -1416,7 +1416,7 @@
     "avg_rating": 4.667,
     "num_reviews": 21,
     "sentiment_score": 0.912,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Tostitos%20Simply%20Blue%20Corn%20Tortilla%20Chips/product.png"
+    "price": 2478.02
   },
   {
     "product_id": "AVpfCvKt1cnluZ0-cpI2",
@@ -1427,7 +1427,7 @@
     "avg_rating": 5.0,
     "num_reviews": 3,
     "sentiment_score": 0.862,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Starbucks153%20Doubleshot%20Protein%20Coffee%20-%2011%20Fl%20Oz/product.png"
+    "price": 684.78
   },
   {
     "product_id": "AVpfCy9b1cnluZ0-cqWS",
@@ -1438,7 +1438,7 @@
     "avg_rating": 5.0,
     "num_reviews": 3,
     "sentiment_score": 0.778,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Bill%20Glor%20Gaither%20-%20Church%20In%20The%20Wildwood%20(cd)/product.png"
+    "price": 227.27
   },
   {
     "product_id": "AVpfD9xTLJeJML431ig2",
@@ -1449,7 +1449,7 @@
     "avg_rating": 4.523,
     "num_reviews": 130,
     "sentiment_score": 0.845,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:There's%20Something%20About%20Mary%20(dvd)/product.png"
+    "price": 584.12
   },
   {
     "product_id": "AVpfDA6wilAPnD_xTxdg",
@@ -1460,7 +1460,7 @@
     "avg_rating": 4.333,
     "num_reviews": 6,
     "sentiment_score": 0.825,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Head%20&%20Shoulders%20Dandruff%20Shampoo%20Ocean%20Lift%202%20In%201/product.png"
+    "price": 989.69
   },
   {
     "product_id": "AVpfDI3xilAPnD_xTz-k",
@@ -1471,7 +1471,7 @@
     "avg_rating": 3.556,
     "num_reviews": 9,
     "sentiment_score": 0.72,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Black%20Front%20Loading%20Frame%20Set%20(8.5x11)%20Set%20Of%2012/product.png"
+    "price": 339.21
   },
   {
     "product_id": "AVpfD_NRilAPnD_xUG56",
@@ -1482,7 +1482,7 @@
     "avg_rating": 5.0,
     "num_reviews": 2,
     "sentiment_score": 0.909,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:RC%20Cola,%2012oz/product.png"
+    "price": 228.15
   },
   {
     "product_id": "AVpfDbSP1cnluZ0-c3wo",
@@ -1493,7 +1493,7 @@
     "avg_rating": 4.0,
     "num_reviews": 1,
     "sentiment_score": 0.624,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Scotty%20Mini%20Double%20Ended%20Extender/product.png"
+    "price": 2916.6
   },
   {
     "product_id": "AVpfDflP1cnluZ0-c5RJ",
@@ -1504,7 +1504,7 @@
     "avg_rating": 1.0,
     "num_reviews": 1,
     "sentiment_score": 0.649,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Kenroy%20Home%20Table%20Lamp%20-%20Chrome/product.png"
+    "price": 1886.07
   },
   {
     "product_id": "AVpfDiTDLJeJML431Y21",
@@ -1515,7 +1515,7 @@
     "avg_rating": 5.0,
     "num_reviews": 4,
     "sentiment_score": 0.837,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Dermalogica%20Special%20Cleansing%20Gel,%208.4oz/product.png"
+    "price": 1092.24
   },
   {
     "product_id": "AVpfE5UF1cnluZ0-dY1N",
@@ -1526,7 +1526,7 @@
     "avg_rating": 5.0,
     "num_reviews": 2,
     "sentiment_score": 0.661,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Smead174%203-In-1%20Supertab%20Section%20Folders,%201/3%20Cut%20Top%20Tab,%20Letter,%20Assorted,%2012/pack/product.png"
+    "price": 2850.98
   },
   {
     "product_id": "AVpfE7puilAPnD_xUcCW",
@@ -1537,7 +1537,7 @@
     "avg_rating": 3.5,
     "num_reviews": 6,
     "sentiment_score": 0.93,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Bilbao%20Nightstand%20Gray%20Oak%20-%20South%20Shore/product.png"
+    "price": 1128.93
   },
   {
     "product_id": "AVpfELcXLJeJML431naf",
@@ -1548,7 +1548,7 @@
     "avg_rating": 4.167,
     "num_reviews": 6,
     "sentiment_score": 0.839,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Africa's%20Best%20No-Lye%20Dual%20Conditioning%20Relaxer%20System%20Super/product.png"
+    "price": 1065.25
   },
   {
     "product_id": "AVpfEqFbilAPnD_xUV28",
@@ -1559,7 +1559,7 @@
     "avg_rating": 5.0,
     "num_reviews": 4,
     "sentiment_score": 0.895,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Tramontina%20Ceramica%2010%20Piece%20Cookware%20Set%20-%20Red/product.png"
+    "price": 1273.49
   },
   {
     "product_id": "AVpfEqruilAPnD_xUWDr",
@@ -1570,7 +1570,7 @@
     "avg_rating": 4.4,
     "num_reviews": 10,
     "sentiment_score": 0.794,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Newman's%20Own%20Balsamic%20Vinaigrette,%2016.0oz/product.png"
+    "price": 1371.85
   },
   {
     "product_id": "AVpfErGsLJeJML431yRX",
@@ -1581,7 +1581,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.996,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Carson-Dellosa%20Publishing%20Photographic%20Learning%20Cards%20Boxed%20Set,%20Nouns/verbs/adjectives,%20Grades%20K-12/product.png"
+    "price": 795.03
   },
   {
     "product_id": "AVpfF7k8ilAPnD_xUyWf",
@@ -1592,7 +1592,7 @@
     "avg_rating": 3.0,
     "num_reviews": 1,
     "sentiment_score": 0.47,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Lite%20Source%20Reiko%201%20Light%20Table%20Lamp%20-%20Orange/product.png"
+    "price": 1376.71
   },
   {
     "product_id": "AVpfFGqP1cnluZ0-ddjG",
@@ -1603,7 +1603,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.902,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Sea%20Gull%20Lighting%20One%20Light%20Wall/bath/vanity-Brushed%20Nickel/product.png"
+    "price": 1786.96
   },
   {
     "product_id": "AVpfFTpK1cnluZ0-diMS",
@@ -1614,7 +1614,7 @@
     "avg_rating": 4.0,
     "num_reviews": 3,
     "sentiment_score": 0.809,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Olay%20Moisturizing%20Lotion%20For%20Sensitive%20Skin/product.png"
+    "price": 1283.43
   },
   {
     "product_id": "AVpfFs_1ilAPnD_xUtRm",
@@ -1625,7 +1625,7 @@
     "avg_rating": 3.889,
     "num_reviews": 9,
     "sentiment_score": 0.917,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:J.a.%20Henckels%20International%204-Pc%20Everedge%20Plus%20Steak%20Knife%20Set/product.png"
+    "price": 362.72
   },
   {
     "product_id": "AVpfFymYilAPnD_xUvMh",
@@ -1636,7 +1636,7 @@
     "avg_rating": 4.6,
     "num_reviews": 5,
     "sentiment_score": 0.739,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Kikkoman%20Soy%20Sauce,%205fl%20oz/product.png"
+    "price": 678.39
   },
   {
     "product_id": "AVpfGRUHilAPnD_xU5nU",
@@ -1647,7 +1647,7 @@
     "avg_rating": 5.0,
     "num_reviews": 5,
     "sentiment_score": 0.949,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Naturtint%20Nutrideep%20Multiplier%20Protective%20Cream/product.png"
+    "price": 589.44
   },
   {
     "product_id": "AVpfGTRQLJeJML432WYA",
@@ -1658,7 +1658,7 @@
     "avg_rating": 4.625,
     "num_reviews": 8,
     "sentiment_score": 0.945,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Burt's%20Bees%20Lip%20Shimmer,%20Watermelon/product.png"
+    "price": 477.17
   },
   {
     "product_id": "AVpfG_ujilAPnD_xVI8L",
@@ -1669,7 +1669,7 @@
     "avg_rating": 4.75,
     "num_reviews": 8,
     "sentiment_score": 0.851,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Kohler%2010280-4%20Fort%20Bath%20Spout%20With%20Sculpted%20Lift%20Rod%20and%201/2-in%20NPT%20Connection/product.png"
+    "price": 937.11
   },
   {
     "product_id": "AVpfGuDrLJeJML432fDz",
@@ -1680,7 +1680,7 @@
     "avg_rating": 4.516,
     "num_reviews": 31,
     "sentiment_score": 0.923,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Pleasant%20Hearth%20Diamond%20Fireplace%20Screen%20-%20Espresso/product.png"
+    "price": 850.77
   },
   {
     "product_id": "AVpfH2Rx1cnluZ0-eYtu",
@@ -1691,7 +1691,7 @@
     "avg_rating": 5.0,
     "num_reviews": 3,
     "sentiment_score": 0.943,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Lynk%20Professional174%20Pull%20Out%20Cutting%20Board%20Bakeware%20Sliding%20Cabinet%20Organizer/product.png"
+    "price": 216.3
   },
   {
     "product_id": "AVpfHI2filAPnD_xVL7R",
@@ -1702,7 +1702,7 @@
     "avg_rating": 3.667,
     "num_reviews": 33,
     "sentiment_score": 0.821,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:L'oreal%20Paris%20Advanced%20Hairstyle%20Boost%20It%20High%20Lift%20Creation%20Spray/product.png"
+    "price": 514.44
   },
   {
     "product_id": "AVpfHZMxLJeJML432tfs",
@@ -1713,7 +1713,7 @@
     "avg_rating": 3.0,
     "num_reviews": 1,
     "sentiment_score": 0.944,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Candy%20Pink%20Plastic%20Cups,%2020%20pk/product.png"
+    "price": 1390.08
   },
   {
     "product_id": "AVpfHf4wLJeJML432vqK",
@@ -1724,7 +1724,7 @@
     "avg_rating": 4.364,
     "num_reviews": 11,
     "sentiment_score": 0.842,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Trend%20Lab%20Park%20Nursing%20Cover%20-%20Paisley/product.png"
+    "price": 2595.09
   },
   {
     "product_id": "AVpfIGFeLJeJML4328YR",
@@ -1735,7 +1735,7 @@
     "avg_rating": 4.8,
     "num_reviews": 5,
     "sentiment_score": 0.947,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:2x%20Ultra%20Era%20with%20Oxi%20Booster,%2050fl%20oz/product.png"
+    "price": 1806.54
   },
   {
     "product_id": "AVpfIN84LJeJML432_D9",
@@ -1746,7 +1746,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.957,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Every%20Man%20Jack%20Pomade%20Signature%20Mint%20Scent/product.png"
+    "price": 734.46
   },
   {
     "product_id": "AVpfIOoV1cnluZ0-ehGp",
@@ -1757,7 +1757,7 @@
     "avg_rating": 4.8,
     "num_reviews": 5,
     "sentiment_score": 0.942,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Reebok%20Classic%20Leather%20Running%20Shoes%20-%20White%20(Men)/product.png"
+    "price": 1532.73
   },
   {
     "product_id": "AVpfIfnYilAPnD_xVpGi",
@@ -1768,7 +1768,7 @@
     "avg_rating": 4.5,
     "num_reviews": 6,
     "sentiment_score": 0.812,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Soothing%20Touch%20Lemon%20Cardamom%20Vegan%20Lip%20Balm%20.25%20Oz/product.png"
+    "price": 1382.06
   },
   {
     "product_id": "AVpfIvbgLJeJML433Kph",
@@ -1779,7 +1779,7 @@
     "avg_rating": 4.913,
     "num_reviews": 23,
     "sentiment_score": 0.95,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Ogx%20Conditioner,%20Hydrating%20Teatree%20Mint/product.png"
+    "price": 1222.15
   },
   {
     "product_id": "AVpfJCq51cnluZ0-ey-L",
@@ -1790,7 +1790,7 @@
     "avg_rating": 4.625,
     "num_reviews": 8,
     "sentiment_score": 0.953,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Weleda%20Everon%20Lip%20Balm/product.png"
+    "price": 1308.94
   },
   {
     "product_id": "AVpfJP1C1cnluZ0-e3Xy",
@@ -1801,7 +1801,7 @@
     "avg_rating": 4.84,
     "num_reviews": 2039,
     "sentiment_score": 0.792,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Clorox%20Disinfecting%20Bathroom%20Cleaner/product.png"
+    "price": 948.1
   },
   {
     "product_id": "AVpfJcHuLJeJML433ZrY",
@@ -1812,7 +1812,7 @@
     "avg_rating": 4.077,
     "num_reviews": 13,
     "sentiment_score": 0.838,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Equals%20(blu-Ray)/product.png"
+    "price": 564.74
   },
   {
     "product_id": "AVpfKOYiilAPnD_xWOFw",
@@ -1823,7 +1823,7 @@
     "avg_rating": 4.286,
     "num_reviews": 28,
     "sentiment_score": 0.849,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Tree%20Hut%20Shea%20Body%20Butters,%20Coconut%20Lime,%207%20oz/product.png"
+    "price": 544.01
   },
   {
     "product_id": "AVpfKa3uilAPnD_xWSGx",
@@ -1834,7 +1834,7 @@
     "avg_rating": 4.0,
     "num_reviews": 1,
     "sentiment_score": 0.976,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Fantasy%20Fields%20Lil'%20Sports%20Fan%20Step%20Stool%20-%20Teamson/product.png"
+    "price": 1860.16
   },
   {
     "product_id": "AVpfKb8k1cnluZ0-fQdA",
@@ -1845,7 +1845,7 @@
     "avg_rating": 4.163,
     "num_reviews": 86,
     "sentiment_score": 0.907,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Head%20&%20Shoulders%20Classic%20Clean%20Conditioner/product.png"
+    "price": 1274.77
   },
   {
     "product_id": "AVpfKhuv1cnluZ0-fSVr",
@@ -1856,7 +1856,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.997,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Blue%20Anchor%20Design%20Throw%20Pillow%20(18x18)%20-%20Rizzy%20Home/product.png"
+    "price": 1141.26
   },
   {
     "product_id": "AVpfL-z9ilAPnD_xWzE_",
@@ -1867,7 +1867,7 @@
     "avg_rating": 4.5,
     "num_reviews": 2,
     "sentiment_score": 0.793,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Stacy's%20Garden%20Veggie%20Medley%20Pita%20Chips/product.png"
+    "price": 565.66
   },
   {
     "product_id": "AVpfLnfPLJeJML434HpK",
@@ -1878,7 +1878,7 @@
     "avg_rating": 4.057,
     "num_reviews": 53,
     "sentiment_score": 0.892,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Pleasant%20Hearth%201,800%20sq%20ft%20Wood%20Burning%20Stove%20with%20Blower,%20Medium,%20LWS-127201/product.png"
+    "price": 1732.57
   },
   {
     "product_id": "AVpfM_ytilAPnD_xXIJb",
@@ -1889,7 +1889,7 @@
     "avg_rating": 4.617,
     "num_reviews": 264,
     "sentiment_score": 0.581,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Tostitos%20Bite%20Size%20Tortilla%20Chips/product.png"
+    "price": 1640.49
   },
   {
     "product_id": "AVpfMpZ51cnluZ0-f_L9",
@@ -1900,7 +1900,7 @@
     "avg_rating": 4.406,
     "num_reviews": 69,
     "sentiment_score": 0.811,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Chips%20Ahoy!%20Original%20Chocolate%20Chip%20-%20Cookies%20-%20Family%20Size%2018.2oz/product.png"
+    "price": 1284.37
   },
   {
     "product_id": "AVpfN6Z71cnluZ0-gZmO",
@@ -1911,7 +1911,7 @@
     "avg_rating": 4.676,
     "num_reviews": 68,
     "sentiment_score": 0.84,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Caress%20Moisturizing%20Body%20Bar%20Natural%20Silk,%204.75oz/product.png"
+    "price": 786.2
   },
   {
     "product_id": "AVpfNVsj1cnluZ0-gNQN",
@@ -1922,7 +1922,7 @@
     "avg_rating": 4.571,
     "num_reviews": 7,
     "sentiment_score": 0.859,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Physicians%20Formula%20Powder%20Palette%20Mineral%20Glow%20Pearls,%20Translucent%20Pearl/product.png"
+    "price": 213.25
   },
   {
     "product_id": "AVpfNWbPilAPnD_xXPR7",
@@ -1933,7 +1933,7 @@
     "avg_rating": 4.889,
     "num_reviews": 27,
     "sentiment_score": 0.868,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Pleasant%20Hearth%207.5%20Steel%20Grate,%2030%205%20Bar%20-%20Black/product.png"
+    "price": 1861.66
   },
   {
     "product_id": "AVpfNc9cLJeJML434tza",
@@ -1944,7 +1944,7 @@
     "avg_rating": 2.5,
     "num_reviews": 8,
     "sentiment_score": 0.721,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Feit%2060-Watt%20A19%20Gu24%20Base%20Led%20Light%20Bulb%20-%20Soft%20White/product.png"
+    "price": 536.25
   },
   {
     "product_id": "AVpfNfEMLJeJML434uf-",
@@ -1955,7 +1955,7 @@
     "avg_rating": 5.0,
     "num_reviews": 12,
     "sentiment_score": 0.903,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Heiress%20(dvd)/product.png"
+    "price": 727.46
   },
   {
     "product_id": "AVpfNglu1cnluZ0-gQ7x",
@@ -1966,7 +1966,7 @@
     "avg_rating": 4.727,
     "num_reviews": 11,
     "sentiment_score": 0.922,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Mia%20Shower%20Curtain%20Green/brown%20-%20Lush%20Decor174/product.png"
+    "price": 857.19
   },
   {
     "product_id": "AVpfO5u71cnluZ0-guiN",
@@ -1977,18 +1977,18 @@
     "avg_rating": 4.429,
     "num_reviews": 7,
     "sentiment_score": 0.884,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Switchmas%20(dvd)/product.png"
+    "price": 231.94
   },
   {
     "product_id": "AVpfOIrkilAPnD_xXgDG",
     "name": "Alex Cross (dvdvideo)",
     "brand": "Summit Entertainment",
-    "manufacturer": NaN,
+    "manufacturer": " ",
     "categories": "Movies & TV Shows,Instawatch Movies By VUDU,Instawatch Movies,Movies, Music & Books,Movies,Action & Adventure,Movies & TV,Shop Instawatch,Movies & Music",
     "avg_rating": 4.27,
     "num_reviews": 141,
     "sentiment_score": 0.792,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Alex%20Cross%20(dvdvideo)/product.png"
+    "price": 264.64
   },
   {
     "product_id": "AVpfOfIqLJeJML435D06",
@@ -1999,7 +1999,7 @@
     "avg_rating": 4.125,
     "num_reviews": 8,
     "sentiment_score": 0.795,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Solo%20Foods%20Poppy%20Seed%20Cake%20and%20Pastry%20Filling/product.png"
+    "price": 1921.17
   },
   {
     "product_id": "AVpfOmKwLJeJML435GM7",
@@ -2010,7 +2010,7 @@
     "avg_rating": 2.841,
     "num_reviews": 372,
     "sentiment_score": 0.759,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Clear%20Scalp%20&%20Hair%20Therapy%20Total%20Care%20Nourishing%20Shampoo/product.png"
+    "price": 1426.71
   },
   {
     "product_id": "AVpfOrD0ilAPnD_xXrRj",
@@ -2021,7 +2021,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 1.0,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Progresso%20Traditional%20Chicken%20Rice%20With%20Vegetables%20Soup/product.png"
+    "price": 1186.27
   },
   {
     "product_id": "AVpfP-rELJeJML435jEN",
@@ -2032,7 +2032,7 @@
     "avg_rating": 4.0,
     "num_reviews": 1,
     "sentiment_score": 0.657,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:5302050%2015/16%20FCT/HOSE%20ADAPTOR/product.png"
+    "price": 409.92
   },
   {
     "product_id": "AVpfPKzxLJeJML435SYL",
@@ -2043,7 +2043,7 @@
     "avg_rating": 5.0,
     "num_reviews": 3,
     "sentiment_score": 0.816,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Tim%20Holtz%20Retractable%20Craft%20Pick-Red%206x.5/product.png"
+    "price": 1923.01
   },
   {
     "product_id": "AVpfPPkEilAPnD_xX3cP",
@@ -2054,7 +2054,7 @@
     "avg_rating": 3.435,
     "num_reviews": 313,
     "sentiment_score": 0.568,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Aveeno%20Baby%20Continuous%20Protection%20Lotion%20Sunscreen%20with%20Broad%20Spectrum%20SPF%2055,%204oz/product.png"
+    "price": 946.56
   },
   {
     "product_id": "AVpfPaoqLJeJML435Xk9",
@@ -2065,7 +2065,7 @@
     "avg_rating": 4.351,
     "num_reviews": 3325,
     "sentiment_score": 0.655,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Godzilla%203d%20Includes%20Digital%20Copy%20Ultraviolet%203d/2d%20Blu-Ray/dvd/product.png"
+    "price": 364.43
   },
   {
     "product_id": "AVpfPjqKLJeJML435aZR",
@@ -2076,7 +2076,7 @@
     "avg_rating": 5.0,
     "num_reviews": 4,
     "sentiment_score": 0.855,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Voortman%20Sugar%20Free%20Fudge%20Chocolate%20Chip%20Cookies/product.png"
+    "price": 2424.33
   },
   {
     "product_id": "AVpfPkrkilAPnD_xX-L9",
@@ -2087,7 +2087,7 @@
     "avg_rating": 4.0,
     "num_reviews": 8,
     "sentiment_score": 0.909,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Finish%20Gelpacs%20Dishwasher%20Detergent,%20Orange%20Scent,%2084ct/product.png"
+    "price": 723.38
   },
   {
     "product_id": "AVpfPnrU1cnluZ0-g9rL",
@@ -2098,7 +2098,7 @@
     "avg_rating": 4.645,
     "num_reviews": 186,
     "sentiment_score": 0.936,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Stargate%20(ws)%20(ultimate%20Edition)%20(director's%20Cut)%20(dvdvideo)/product.png"
+    "price": 241.77
   },
   {
     "product_id": "AVpfPx6V1cnluZ0-hA5y",
@@ -2109,7 +2109,7 @@
     "avg_rating": 4.818,
     "num_reviews": 11,
     "sentiment_score": 0.891,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Ben%20&%20Jerry's%20Coffee,%20Coffee%20Buzzbuzzbuzz!%20Ice%20Cream,%20Pint/product.png"
+    "price": 2818.13
   },
   {
     "product_id": "AVpfQtEm1cnluZ0-hUpe",
@@ -2120,7 +2120,7 @@
     "avg_rating": 4.704,
     "num_reviews": 27,
     "sentiment_score": 0.907,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Jolly%20Time%20Select%20Premium%20Yellow%20Pop%20Corn/product.png"
+    "price": 1427.39
   },
   {
     "product_id": "AVpfR5m0LJeJML436K3W",
@@ -2131,7 +2131,7 @@
     "avg_rating": 4.691,
     "num_reviews": 204,
     "sentiment_score": 0.865,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Jason%20Aldean%20-%20They%20Don't%20Know/product.png"
+    "price": 114.56
   },
   {
     "product_id": "AVpfRE4tilAPnD_xYdo_",
@@ -2142,7 +2142,7 @@
     "avg_rating": 4.556,
     "num_reviews": 9,
     "sentiment_score": 0.941,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Ogx%20Anti-breakage%20Keratin%20Oil%203%20Minute%20Miraculous%20Recovery/product.png"
+    "price": 1049.56
   },
   {
     "product_id": "AVpfRM8dLJeJML4358wT",
@@ -2153,7 +2153,7 @@
     "avg_rating": 5.0,
     "num_reviews": 4,
     "sentiment_score": 0.981,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Cantu%20Coconut%20Milk%20Shine%20Hold%20Mist%20-%208oz/product.png"
+    "price": 1278.31
   },
   {
     "product_id": "AVpfRTh1ilAPnD_xYic2",
@@ -2164,7 +2164,7 @@
     "avg_rating": 4.677,
     "num_reviews": 1143,
     "sentiment_score": 0.897,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Planes:%20Fire%20Rescue%20(2%20Discs)%20(includes%20Digital%20Copy)%20(blu-Ray/dvd)/product.png"
+    "price": 661.49
   },
   {
     "product_id": "AVpfRYbSilAPnD_xYkD4",
@@ -2175,7 +2175,7 @@
     "avg_rating": 4.458,
     "num_reviews": 24,
     "sentiment_score": 0.898,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Shea%20Moisture%20Mango%20&%20Carrot%20Kids%20Extra-Nourishing%20Conditioner,%208fl%20Oz/product.png"
+    "price": 787.1
   },
   {
     "product_id": "AVpfRkzN1cnluZ0-hmnu",
@@ -2186,7 +2186,7 @@
     "avg_rating": 5.0,
     "num_reviews": 2,
     "sentiment_score": 0.948,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Smead174%202%201/4%20Inch%20Accordion%20Expansion%20Wallet,%20Poly,%20Letter,%20Translucent%20Green/product.png"
+    "price": 1884.77
   },
   {
     "product_id": "AVpfRoqcLJeJML436FqG",
@@ -2197,7 +2197,7 @@
     "avg_rating": 4.406,
     "num_reviews": 96,
     "sentiment_score": 0.609,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Vicks%20Vaporub,%20Regular,%203.53oz/product.png"
+    "price": 531.74
   },
   {
     "product_id": "AVpfRxSkilAPnD_xYrzm",
@@ -2208,7 +2208,7 @@
     "avg_rating": 1.0,
     "num_reviews": 1,
     "sentiment_score": 0.774,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:High-Dome%20Floor%20Door%20Stop/product.png"
+    "price": 1237.44
   },
   {
     "product_id": "AVpfSFDo1cnluZ0-hwjT",
@@ -2219,7 +2219,7 @@
     "avg_rating": 4.75,
     "num_reviews": 8,
     "sentiment_score": 0.946,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Concept%20Housewares%2036%20Natural%20Wood%20ceiling%20mounted%20pot%20rack/product.png"
+    "price": 244.46
   },
   {
     "product_id": "AVpfSvmGilAPnD_xY_gE",
@@ -2230,7 +2230,7 @@
     "avg_rating": 5.0,
     "num_reviews": 8,
     "sentiment_score": 0.851,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Barielle%20Nail%20Rebuilding%20Protein/product.png"
+    "price": 1227.51
   },
   {
     "product_id": "AVpfTVkcilAPnD_xZLts",
@@ -2241,7 +2241,7 @@
     "avg_rating": 3.0,
     "num_reviews": 9,
     "sentiment_score": 0.807,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Queen%20Helene%20Cocoa%20Butter%20Solid/product.png"
+    "price": 550.09
   },
   {
     "product_id": "AVpfUCiPilAPnD_xZai4",
@@ -2252,7 +2252,7 @@
     "avg_rating": 4.0,
     "num_reviews": 2,
     "sentiment_score": 0.916,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Sea%20Gull%20Lighting%20Holman%20One%20Light%20Wall/bath%20Sconce%20-%20Brushed%20Nickel/product.png"
+    "price": 1299.22
   },
   {
     "product_id": "AVpfUJu_ilAPnD_xZdDr",
@@ -2263,7 +2263,7 @@
     "avg_rating": 4.4,
     "num_reviews": 25,
     "sentiment_score": 0.79,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Chobani174%20Strawberry%20On%20The%20Bottom%20Non-Fat%20Greek%20Yogurt%20-%205.3oz/product.png"
+    "price": 1922.76
   },
   {
     "product_id": "AVpfUN2nilAPnD_xZeY3",
@@ -2274,7 +2274,7 @@
     "avg_rating": 4.812,
     "num_reviews": 16,
     "sentiment_score": 0.936,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Meguiars%20Interior%20Detailer%20Wipes%2025ct/product.png"
+    "price": 1214.29
   },
   {
     "product_id": "AVpfUQZjilAPnD_xZfOU",
@@ -2285,7 +2285,7 @@
     "avg_rating": 4.333,
     "num_reviews": 6,
     "sentiment_score": 0.885,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Bedtime%20Originals%20Pinkie%20Musical%20Mobile/product.png"
+    "price": 16230.76
   },
   {
     "product_id": "AVpfVMhR1cnluZ0-ixY8",
@@ -2296,7 +2296,7 @@
     "avg_rating": 5.0,
     "num_reviews": 4,
     "sentiment_score": 0.625,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:2017-2018%20Brownline174%20Duraflex%2014-Month%20Planner%208%201/2%20X%2011%20Black/product.png"
+    "price": 535.02
   },
   {
     "product_id": "AVpfVPh3ilAPnD_xZzW9",
@@ -2307,7 +2307,7 @@
     "avg_rating": 4.733,
     "num_reviews": 15,
     "sentiment_score": 0.907,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Mrs.%20Meyer's%20Lemon%20Verbena%20Surface%20Scrub/product.png"
+    "price": 1095.03
   },
   {
     "product_id": "AVpfW8y_LJeJML437ySW",
@@ -2318,7 +2318,7 @@
     "avg_rating": 4.027,
     "num_reviews": 1186,
     "sentiment_score": 0.869,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:L'or233al%20Paris%20Elvive%20Extraordinary%20Clay%20Rebalancing%20Conditioner%20-%2012.6%20Fl%20Oz/product.png"
+    "price": 620.26
   },
   {
     "product_id": "AVpf_rYe1cnluZ0-ut8Y",
@@ -2329,7 +2329,7 @@
     "avg_rating": 4.917,
     "num_reviews": 12,
     "sentiment_score": 0.907,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Better%20Built%2074010862%20Bet74010862%2060In%20Crossover%20Two%20Lid,%20Deep,%20Truck%20Tool%20Box/product.png"
+    "price": 1786.3
   },
   {
     "product_id": "AVpfa1joLJeJML4385hb",
@@ -2340,7 +2340,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.457,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Stonyfield%20Yobaby%20Peach%20&%20Pear%20Yogurt%204oz%206%20Ct/product.png"
+    "price": 420.51
   },
   {
     "product_id": "AVpfazX31cnluZ0-kbdl",
@@ -2351,7 +2351,7 @@
     "avg_rating": 4.214,
     "num_reviews": 224,
     "sentiment_score": 0.759,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Just%20For%20Men%20Touch%20Of%20Gray%20Gray%20Hair%20Treatment,%20Black%20T-55/product.png"
+    "price": 410.29
   },
   {
     "product_id": "AVpfbjraLJeJML439F91",
@@ -2362,7 +2362,7 @@
     "avg_rating": 1.0,
     "num_reviews": 1,
     "sentiment_score": 0.543,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Pocket%20Watch%20Wall%20Clock%20Distressed%20Black%20-%20Yosemite%20Home%20Decor174/product.png"
+    "price": 1012.68
   },
   {
     "product_id": "AVpfbkyr1cnluZ0-kozI",
@@ -2373,7 +2373,7 @@
     "avg_rating": 4.784,
     "num_reviews": 37,
     "sentiment_score": 0.893,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Kraus%20FVS-1007%20Single%20Hole%20Vessel%20Bathroom%20Faucet%20from%20the%20Ramus%20Collection/product.png"
+    "price": 645.08
   },
   {
     "product_id": "AVpfbpzd1cnluZ0-kqJV",
@@ -2384,7 +2384,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.902,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Clorox%20Ultimate%20Care%20Premium%20Bleach/product.png"
+    "price": 395.63
   },
   {
     "product_id": "AVpfbraG1cnluZ0-kqnn",
@@ -2395,7 +2395,7 @@
     "avg_rating": 4.4,
     "num_reviews": 5,
     "sentiment_score": 0.916,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Kind%20Nut%20Delight%20Bar/product.png"
+    "price": 299.37
   },
   {
     "product_id": "AVpfcu821cnluZ0-k8ep",
@@ -2406,7 +2406,7 @@
     "avg_rating": 4.766,
     "num_reviews": 158,
     "sentiment_score": 0.852,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Vaseline%20Intensive%20Care%20Lip%20Therapy%20Cocoa%20Butter/product.png"
+    "price": 1166.14
   },
   {
     "product_id": "AVpfdYUZilAPnD_xcHuK",
@@ -2417,7 +2417,7 @@
     "avg_rating": 3.761,
     "num_reviews": 46,
     "sentiment_score": 0.85,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:L'oreal%20Paris%20Colour%20Caresse%20Wet%20Shine%20Stain,%20Pink%20Resistance/product.png"
+    "price": 227.8
   },
   {
     "product_id": "AVpfddjcLJeJML439loo",
@@ -2428,7 +2428,7 @@
     "avg_rating": 4.0,
     "num_reviews": 1,
     "sentiment_score": 0.943,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Elvis%20Presley%20-%20Girl%20Happy%20(cd)/product.png"
+    "price": 582.34
   },
   {
     "product_id": "AVpfe3On1cnluZ0-lgn5",
@@ -2439,7 +2439,7 @@
     "avg_rating": 4.913,
     "num_reviews": 23,
     "sentiment_score": 0.884,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Doc%20Mcstuffins:%20Friendship%20Is%20The%20Best%20Medicine/product.png"
+    "price": 685.9
   },
   {
     "product_id": "AVpfewoLilAPnD_xcfgU",
@@ -2450,7 +2450,7 @@
     "avg_rating": 3.75,
     "num_reviews": 4,
     "sentiment_score": 0.814,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Home%20Health%20Hairever%20Shampoo/product.png"
+    "price": 632.12
   },
   {
     "product_id": "AVpfgvkJLJeJML43-g1y",
@@ -2461,7 +2461,7 @@
     "avg_rating": 4.286,
     "num_reviews": 7,
     "sentiment_score": 0.873,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Scooby%20Doo%20And%20The%20Loch%20Ness%20Monster%20(blu-Ray)/product.png"
+    "price": 556.32
   },
   {
     "product_id": "AVpfh1gsilAPnD_xdX_S",
@@ -2472,7 +2472,7 @@
     "avg_rating": 4.0,
     "num_reviews": 1,
     "sentiment_score": 0.843,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Cal%20Lighting%20Led%20Dark%20Bronze%20Finish%20Metal%20Piano%20Lamp/product.png"
+    "price": 1980.19
   },
   {
     "product_id": "AVpfhpNkilAPnD_xdUZz",
@@ -2483,7 +2483,7 @@
     "avg_rating": 4.5,
     "num_reviews": 2,
     "sentiment_score": 0.902,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Plum%20Organics%20Just%20Prunes/product.png"
+    "price": 1832.74
   },
   {
     "product_id": "AVpfhxaELJeJML43-zsM",
@@ -2494,7 +2494,7 @@
     "avg_rating": 5.0,
     "num_reviews": 2,
     "sentiment_score": 0.891,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Batherapy%20Natural%20Mineral%20Bath%20Sport%20Liquid,%2016%20oz/product.png"
+    "price": 1412.02
   },
   {
     "product_id": "AVpfi79RLJeJML43_Jo0",
@@ -2505,7 +2505,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.797,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Various%20-%20Country's%20Greatest%20Gospel:Gold%20Ed%20(cd)/product.png"
+    "price": 146.93
   },
   {
     "product_id": "AVpfiRY_LJeJML43-8p9",
@@ -2516,7 +2516,7 @@
     "avg_rating": 3.5,
     "num_reviews": 2,
     "sentiment_score": 0.825,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Annie's%20Homegrown%20Deluxe%20Elbows%20&%20Four%20Cheese%20Sauce/product.png"
+    "price": 2258.36
   },
   {
     "product_id": "AVpfiUrfLJeJML43-9nY",
@@ -2527,7 +2527,7 @@
     "avg_rating": 4.417,
     "num_reviews": 24,
     "sentiment_score": 0.884,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Delta%20Single%20Handle%20Shower%20Faucet/product.png"
+    "price": 1196.79
   },
   {
     "product_id": "AVpfifml1cnluZ0-mjSb",
@@ -2538,7 +2538,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.891,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:JNH%20Lifestyles%20Goldstar%203%20Person%20FAR%20Infrared%20Sauna/product.png"
+    "price": 1398.83
   },
   {
     "product_id": "AVpfjHuw1cnluZ0-mvrX",
@@ -2549,7 +2549,7 @@
     "avg_rating": 5.0,
     "num_reviews": 5,
     "sentiment_score": 0.693,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Fiskars174%20Classic%20Stick%20Rotary%20Cutter%20(45%20Mm)/product.png"
+    "price": 1444.91
   },
   {
     "product_id": "AVpfjauJLJeJML43_TKe",
@@ -2560,7 +2560,7 @@
     "avg_rating": 4.818,
     "num_reviews": 11,
     "sentiment_score": 0.883,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Physicians%20Formula%20Mineral%20Wear%20Talc-Free%20Mineral%20Correcting%20Powder,%20Creamy%20Natural/product.png"
+    "price": 641.32
   },
   {
     "product_id": "AVpfk4y7ilAPnD_xeTgd",
@@ -2571,7 +2571,7 @@
     "avg_rating": 4.909,
     "num_reviews": 11,
     "sentiment_score": 0.826,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:BRIDGESTONE%20130/70ZR18M/C(63W)FRONT%20EXEDRA%20G851,%20CRUISER%20RADL/product.png"
+    "price": 2986.98
   },
   {
     "product_id": "AVpfkIiYilAPnD_xeEjr",
@@ -2582,7 +2582,7 @@
     "avg_rating": 4.167,
     "num_reviews": 6,
     "sentiment_score": 0.908,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Kendall%20Comforter%20And%20Sheet%20Set%20(twin)%20Aqua%20-%207pc/product.png"
+    "price": 1981.76
   },
   {
     "product_id": "AVpfkQkcLJeJML43_kEC",
@@ -2593,7 +2593,7 @@
     "avg_rating": 4.667,
     "num_reviews": 3,
     "sentiment_score": 0.678,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Cococare%20100%%20Natural%20Castor%20Oil/product.png"
+    "price": 370.5
   },
   {
     "product_id": "AVpfkak01cnluZ0-nJj6",
@@ -2604,7 +2604,7 @@
     "avg_rating": 4.75,
     "num_reviews": 4,
     "sentiment_score": 0.955,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Starbucks%20Iced%20Expresso%20Classics%20Vanilla%20Latte%20Coffee%20Beverage%20-%2040oz/product.png"
+    "price": 2315.05
   },
   {
     "product_id": "AVpfksililAPnD_xePx_",
@@ -2615,7 +2615,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.823,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Pacific%20Natural%20Foods%20Organic%20Beef%20Broth/product.png"
+    "price": 404.57
   },
   {
     "product_id": "AVpfl6baLJeJML43AEQq",
@@ -2626,7 +2626,7 @@
     "avg_rating": 4.556,
     "num_reviews": 9,
     "sentiment_score": 0.768,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Honeywell%20Heatbud%20Ceramic%20Heater%20Black/product.png"
+    "price": 222.15
   },
   {
     "product_id": "AVpfl6sF1cnluZ0-nmwC",
@@ -2637,7 +2637,7 @@
     "avg_rating": 4.778,
     "num_reviews": 9,
     "sentiment_score": 0.923,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Jergens%20Extra%20Moisturizing%20Liquid%20Hand%20Wash,%207.5oz/product.png"
+    "price": 1102.01
   },
   {
     "product_id": "AVpflENxilAPnD_xeXFF",
@@ -2648,7 +2648,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.997,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Noosa%20Honey%20Yogurt/product.png"
+    "price": 451.27
   },
   {
     "product_id": "AVpfldDlLJeJML43_7s_",
@@ -2659,7 +2659,7 @@
     "avg_rating": 3.667,
     "num_reviews": 6,
     "sentiment_score": 0.757,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Lay's%20Salt%20&%20Vinegar%20Flavored%20Potato%20Chips/product.png"
+    "price": 2693.97
   },
   {
     "product_id": "AVpfliCoilAPnD_xegIr",
@@ -2670,7 +2670,7 @@
     "avg_rating": 4.167,
     "num_reviews": 6,
     "sentiment_score": 0.771,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:0.6%20Cu.%20Ft.%20Letter%20A4%20Size%20Waterproof%2030%20Min.%20Fire%20File%20Chest/product.png"
+    "price": 942.7
   },
   {
     "product_id": "AVpfluP1ilAPnD_xejxO",
@@ -2681,7 +2681,7 @@
     "avg_rating": 4.25,
     "num_reviews": 24,
     "sentiment_score": 0.875,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Stacy's%20Simply%20Naked%20Bagel%20Chips/product.png"
+    "price": 287.26
   },
   {
     "product_id": "AVpfm8yiLJeJML43AYyu",
@@ -2692,7 +2692,7 @@
     "avg_rating": 1.359,
     "num_reviews": 693,
     "sentiment_score": 0.608,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Nexxus%20Exxtra%20Gel%20Style%20Creation%20Sculptor/product.png"
+    "price": 761.15
   },
   {
     "product_id": "AVpfmVnVLJeJML43AMqC",
@@ -2703,7 +2703,7 @@
     "avg_rating": 5.0,
     "num_reviews": 6,
     "sentiment_score": 0.886,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:4C%20Grated%20Parmesan%20Cheese%20100%%20Natural%208oz%20Shaker/product.png"
+    "price": 2328.11
   },
   {
     "product_id": "AVpfmjXGLJeJML43AQ5_",
@@ -2714,7 +2714,7 @@
     "avg_rating": 4.333,
     "num_reviews": 6,
     "sentiment_score": 0.864,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Hollywood%20Beauty%20Olive%20Cholesterol/product.png"
+    "price": 1027.56
   },
   {
     "product_id": "AVpfml2VilAPnD_xe0m6",
@@ -2725,7 +2725,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.915,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Southern%20Enterprises%20Archer%20Fold-Away%20Home%20Bar%20in%20Walnut/product.png"
+    "price": 1421.61
   },
   {
     "product_id": "AVpfnRuSilAPnD_xfB8l",
@@ -2736,7 +2736,7 @@
     "avg_rating": 3.846,
     "num_reviews": 39,
     "sentiment_score": 0.776,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Yes%20To%20Grapefruit%20Rejuvenating%20Body%20Wash/product.png"
+    "price": 1067.66
   },
   {
     "product_id": "AVpfnS4eLJeJML43AfZe",
@@ -2747,7 +2747,7 @@
     "avg_rating": 4.0,
     "num_reviews": 3,
     "sentiment_score": 0.861,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Progresso%20Light%20Vegetable%20&%20Noodle%20Soup/product.png"
+    "price": 1045.61
   },
   {
     "product_id": "AVpfnUcwLJeJML43Af2U",
@@ -2758,7 +2758,7 @@
     "avg_rating": 4.0,
     "num_reviews": 3,
     "sentiment_score": 0.917,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Maybelline%20Clean%20Express!%20Makeup%20Removing%20Lotion/product.png"
+    "price": 1064.86
   },
   {
     "product_id": "AVpfnjBILJeJML43AkO3",
@@ -2769,7 +2769,7 @@
     "avg_rating": 3.833,
     "num_reviews": 6,
     "sentiment_score": 0.85,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Progresso%20Traditional%20Chicken%20Tuscany%20Soup/product.png"
+    "price": 275.36
   },
   {
     "product_id": "AVpfoSS51cnluZ0-oVH9",
@@ -2780,7 +2780,7 @@
     "avg_rating": 4.733,
     "num_reviews": 60,
     "sentiment_score": 0.823,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Cheetos%20Crunchy%20Flamin'%20Hot%20Cheese%20Flavored%20Snacks/product.png"
+    "price": 603.73
   },
   {
     "product_id": "AVpfov9TLJeJML43A7B0",
@@ -2791,7 +2791,7 @@
     "avg_rating": 4.804,
     "num_reviews": 97,
     "sentiment_score": 0.762,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Bisquick%20Original%20Pancake%20And%20Baking%20Mix%20-%2040oz/product.png"
+    "price": 2987.86
   },
   {
     "product_id": "AVpfozgyilAPnD_xfe0r",
@@ -2802,7 +2802,7 @@
     "avg_rating": 3.333,
     "num_reviews": 3,
     "sentiment_score": 0.7,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Olivella%20Bar%20Soap%20-%203.52%20Oz/product.png"
+    "price": 476.48
   },
   {
     "product_id": "AVpfpM2yilAPnD_xfmDG",
@@ -2813,7 +2813,7 @@
     "avg_rating": 4.459,
     "num_reviews": 37,
     "sentiment_score": 0.736,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Ragu%20Traditional%20Pasta%20Sauce/product.png"
+    "price": 1400.9
   },
   {
     "product_id": "AVpfpoUCLJeJML43BLXv",
@@ -2824,7 +2824,7 @@
     "avg_rating": 4.0,
     "num_reviews": 1,
     "sentiment_score": 0.988,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Iman%20Luxury%20Moisturizing%20Lipstick,%20Black%20Brandy%20006/product.png"
+    "price": 1055.92
   },
   {
     "product_id": "AVpfqW4WilAPnD_xf7a_",
@@ -2835,7 +2835,7 @@
     "avg_rating": 4.767,
     "num_reviews": 30,
     "sentiment_score": 0.854,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Leslie%20Sansone:Belly%20Blasting%20Walk%20(dvd)/product.png"
+    "price": 445.3
   },
   {
     "product_id": "AVpfr5cb1cnluZ0-pZFp",
@@ -2846,7 +2846,7 @@
     "avg_rating": 4.333,
     "num_reviews": 27,
     "sentiment_score": 0.902,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Boraam%20Sonoma%20Kitchen%20Cart%20With%20Wire%20Brush%20Gray%20-%20Maaya%20Home/product.png"
+    "price": 860.03
   },
   {
     "product_id": "AVpfrFDZLJeJML43Bmv0",
@@ -2857,7 +2857,7 @@
     "avg_rating": 4.862,
     "num_reviews": 29,
     "sentiment_score": 0.924,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Meguiar's%20Ultimate%20Quik%20Detailer%2022-Oz./product.png"
+    "price": 1253.68
   },
   {
     "product_id": "AVpfrTyiLJeJML43BrSI",
@@ -2868,7 +2868,7 @@
     "avg_rating": 4.655,
     "num_reviews": 29,
     "sentiment_score": 0.836,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Various%20Artists%20-%20Choo%20Choo%20Soul%20(cd)/product.png"
+    "price": 395.89
   },
   {
     "product_id": "AVpfrfHF1cnluZ0-pRai",
@@ -2879,7 +2879,7 @@
     "avg_rating": 4.846,
     "num_reviews": 13,
     "sentiment_score": 0.906,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Care%20Free%20Curl%20Gold%20Instant%20Activator/product.png"
+    "price": 343.55
   },
   {
     "product_id": "AVpfrgjFLJeJML43BvCc",
@@ -2890,7 +2890,7 @@
     "avg_rating": 4.625,
     "num_reviews": 8,
     "sentiment_score": 0.776,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Spam%20Single%20Classic/product.png"
+    "price": 1466.56
   },
   {
     "product_id": "AVpfs0tUilAPnD_xgqN2",
@@ -2901,7 +2901,7 @@
     "avg_rating": 5.0,
     "num_reviews": 2,
     "sentiment_score": 0.913,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Ceiling%20Fan%20With%20Light%20White%2014.2%20X%2029.9%20X%209.2%20-%20Hunter%20Fan/product.png"
+    "price": 468.35
   },
   {
     "product_id": "AVpfsQoeilAPnD_xgfx5",
@@ -2912,7 +2912,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.755,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Walkers%20Stem%20Ginger%20Shortbread/product.png"
+    "price": 1260.46
   },
   {
     "product_id": "AVpfshNsLJeJML43CB8q",
@@ -2923,7 +2923,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.875,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Tostitos%20Original%20Restaurant%20Style%20Tortilla%20Chips/product.png"
+    "price": 2189.7
   },
   {
     "product_id": "AVpfthSailAPnD_xg3ON",
@@ -2934,7 +2934,7 @@
     "avg_rating": 4.571,
     "num_reviews": 7,
     "sentiment_score": 0.672,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Musselman%20Apple%20Sauce,%20Cinnamon,%2048oz/product.png"
+    "price": 2426.93
   },
   {
     "product_id": "AVpftikC1cnluZ0-p31V",
@@ -2945,7 +2945,7 @@
     "avg_rating": 4.258,
     "num_reviews": 264,
     "sentiment_score": 0.73,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Storkcraft%20Tuscany%20Glider%20and%20Ottoman,%20Beige%20Cushions,%20Espresso%20Finish/product.png"
+    "price": 745.35
   },
   {
     "product_id": "AVpftymALJeJML43CZ6y",
@@ -2956,7 +2956,7 @@
     "avg_rating": 5.0,
     "num_reviews": 1,
     "sentiment_score": 0.845,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Bodycology%20Nourishing%20Body%20Cream,%20Pretty%20In%20Paris/product.png"
+    "price": 335.56
   },
   {
     "product_id": "AVpfv4TlilAPnD_xhjNS",
@@ -2967,7 +2967,7 @@
     "avg_rating": 4.333,
     "num_reviews": 3,
     "sentiment_score": 0.756,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:Various%20-%20Red%20Hot%20Blue:Tribute%20To%20Cole%20Porter%20(cd)/product.png"
+    "price": 276.04
   },
   {
     "product_id": "AVpfvieo1cnluZ0-qdnu",
@@ -2978,6 +2978,6 @@
     "avg_rating": 3.043,
     "num_reviews": 23,
     "sentiment_score": 0.718,
-    "image_url": "https://res.cloudinary.com/None/image/upload/w_600,h_600,c_fill,l_text:Arial_40:L'oreal%20Paris%20Advanced%20Hairstyle%20TXT%20IT%20Hyper-Fix%20Putty/product.png"
+    "price": 1140.73
   }
 ]

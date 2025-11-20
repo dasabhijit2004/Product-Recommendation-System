@@ -1,61 +1,46 @@
-import React from "react";
-import Link from "next/link";
-import Image from "next/image";
+"use client";
+
+import { useEffect, useState } from "react";
+import useInfiniteScroll from "@/hooks/useInfiniteScroll";
 import ProductCard from "@/components/ProductCard";
 
-export type Product = {
-  product_id: string;
-  name: string;
-  brand: string;
-  manufacturer?: string;
-  categories: string;
-  avg_rating: number;
-  num_reviews?: number;
-  sentiment_score: number;
-  final_score?: number;
-  image_url: string;
-};
+export default function HomePage() {
+  const [products, setProducts] = useState<any[]>([]);
+  const [page, setPage] = useState(1);
+  const [hasMore, setHasMore] = useState(true);
 
+  async function loadMore() {
+    if (!hasMore) return;
 
-async function getNewUserRecommendations(): Promise<Product[]> {
-  const res = await fetch("http://localhost:3000/api/recommendations", {
-    cache: "no-store",
-  });
+    const res = await fetch(`/api/recommendations?page=${page}&limit=12`);
+    const data = await res.json();
 
-  if (!res.ok) {
-    console.error("Failed to fetch recommendations");
-    return [];
+    setProducts((prev) => [...prev, ...data.products]);
+    setHasMore(data.hasMore);
+    setPage(page + 1);
   }
 
-  const data = await res.json();
-  return data.products ?? [];
-}
+  const loaderRef = useInfiniteScroll(loadMore);
 
-export default async function HomePage() {
-  const products: Product[] = await getNewUserRecommendations();
+  useEffect(() => {
+    loadMore();
+  }, []);
 
   return (
-    <main className="min-h-screen bg-slate-950 text-slate-50">
-      <div className="mx-auto max-w-6xl px-4 py-10">
-        <h1 className="text-3xl font-bold mb-4">
-          Recommended Products for You
-        </h1>
+    <main className="min-h-screen bg-slate-950 text-white p-10">
+      <h1 className="text-3xl font-bold mb-6">Recommended for You</h1>
 
-        <p className="text-slate-300 mb-8">
-          New user view – powered by real ML sentiment model.
-        </p>
-
-        {/* If no products */}
-        {products.length === 0 ? (
-          <p>No recommendations yet. Is the ML server running?</p>
-        ) : (
-          <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
-            {products.map((p: Product) => (
-              <ProductCard key={p.product_id} product={p} />
-            ))}
-          </div>
-        )}
+      <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
+        {products.map((p) => (
+          <ProductCard key={p.product_id} product={p} />
+        ))}
       </div>
+
+      {hasMore && (
+        <div ref={loaderRef} className="h-10 mt-10 text-center text-slate-400">
+          Loading more…
+        </div>
+      )}
     </main>
   );
 }

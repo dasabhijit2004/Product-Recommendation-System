@@ -1,34 +1,42 @@
 import { NextRequest, NextResponse } from "next/server";
-
-const ML_API_BASE = process.env.ML_API_BASE || "http://localhost:8000";
+import fs from "fs";
+import path from "path";
 
 export async function GET(req: NextRequest) {
   try {
     const { searchParams } = new URL(req.url);
-    const query = searchParams.get("query") || "";
-    const limit = searchParams.get("limit") || "20";
 
-    if (!query.trim()) {
-      return NextResponse.json({ products: [] });
-    }
+    const query = (searchParams.get("query") ?? "").toLowerCase();
+    const page = Number(searchParams.get("page") ?? "1");
+    const limit = Number(searchParams.get("limit") ?? "12");
 
-    const mlRes = await fetch(
-      `${ML_API_BASE}/search?q=${encodeURIComponent(query)}&limit=${limit}`,
-      { cache: "no-store" }
+    const start = (page - 1) * limit;
+    const end = start + limit;
+
+    // Load catalog
+    const filePath = path.join(process.cwd(), "..", "ml", "data", "processed", "product_catalog.json");
+    const raw = fs.readFileSync(filePath, "utf8");
+    const products = JSON.parse(raw);
+
+    // Filter results
+    const filtered = products.filter((p: any) =>
+      p.name.toLowerCase().includes(query) ||
+      p.categories.toLowerCase().includes(query) ||
+      p.brand.toLowerCase().includes(query)
     );
 
-    if (!mlRes.ok) {
-      console.error("ML search failed", await mlRes.text());
-      return NextResponse.json(
-        { error: "ML search failed" },
-        { status: 500 }
-      );
-    }
+    // Paginate filtered results
+    const slice = filtered.slice(start, end);
 
-    const data = await mlRes.json();
-    return NextResponse.json(data);
+    return NextResponse.json({
+      query,
+      page,
+      hasMore: end < filtered.length,
+      products: slice,
+    });
+
   } catch (err) {
-    console.error("Search API error:", err);
+    console.error("Search API Error:", err);
     return NextResponse.json({ error: "Search failed" }, { status: 500 });
   }
 }

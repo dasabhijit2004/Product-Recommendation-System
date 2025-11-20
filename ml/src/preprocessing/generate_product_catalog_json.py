@@ -13,7 +13,8 @@ REQUIRED_COLUMNS = [
     "categories",
     "avg_rating",
     "num_reviews",
-    "sentiment_score"
+    "sentiment_score",
+    "price"
 ]
 
 def generate_catalog():

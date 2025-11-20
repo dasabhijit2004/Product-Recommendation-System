@@ -1,41 +1,23 @@
 "use client";
 
-import jwt from "jsonwebtoken";
-
 export default function BuyButton({ productId }: { productId: string }) {
-  async function handlePurchase() {
-    // Get token from browser cookies
-    const token = document.cookie
-      .split("; ")
-      .find((row) => row.startsWith("token="))
-      ?.split("=")[1];
+  async function addToCart() {
+    await fetch("/api/cart/add", {
+      method: "POST",
+      credentials: "include",       // ✔ REQUIRED
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ productId }),
+    });
 
-    let userId: string | null = null;
-
-    if (token) {
-      try {
-        const decoded: any = jwt.decode(token);
-        userId = decoded?.id;
-      } catch {}
-    }
-
-    if (userId) {
-      await fetch("/api/user/track/purchase", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ userId, productId }),
-      });
-    }
-
-    alert("Purchase recorded! (Simulated)");
+    alert("Added to cart!");
   }
 
   return (
     <button
-      onClick={handlePurchase}
-      className="bg-emerald-500 px-4 py-2 rounded text-black hover:bg-emerald-400"
+      onClick={addToCart}
+      className="bg-blue-500 px-4 py-2 rounded text-black hover:bg-blue-400"
     >
-      Buy Now
+      Add to Cart
     </button>
   );
 }
