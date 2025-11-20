@@ -6,6 +6,21 @@ import os
 from collections import defaultdict
 from src.inference.sentiment_scorer import predict_sentiment_score
 
+import random
+
+CATEGORY_BASE_PRICES = {
+    "electronics": (500, 800),
+    "laptops": (45000, 95000),
+    "mobiles": (9000, 75000),
+    "computers": (1000, 5000),
+    "home": (200, 2000),
+    "kitchen": (150, 2500),
+    "books": (100, 600),
+    "beauty": (80, 1500),
+    "fashion": (200, 3000),
+    "default": (200, 3000),
+}
+
 RAW_DATA_DIR = "data/raw/kaggle_sentiment"
 PROCESSED_DIR = "data/processed"
 
@@ -15,6 +30,17 @@ def load_dataset():
     print("Loading:", path)
     return pd.read_csv(path, encoding="latin-1")
 
+
+def generate_price(categories: str):
+    cats = categories.lower()
+
+    for key, (mn, mx) in CATEGORY_BASE_PRICES.items():
+        if key in cats:
+            return round(random.uniform(mn, mx), 2)
+
+    # fallback
+    mn, mx = CATEGORY_BASE_PRICES["default"]
+    return round(random.uniform(mn, mx), 2)
 
 def build_catalog():
     df = load_dataset()
@@ -57,6 +83,7 @@ def build_catalog():
             "avg_rating": round(avg_rating, 3),
             "num_reviews": len(ratings),
             "sentiment_score": round(avg_sentiment_score, 3),
+            "price": generate_price(categories),
         })
 
     catalog_df = pd.DataFrame(products)

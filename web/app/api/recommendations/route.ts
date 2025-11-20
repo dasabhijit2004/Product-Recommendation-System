@@ -1,24 +1,48 @@
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
+import fs from "fs";
+import path from "path";
 
-const ML_API_BASE = process.env.ML_API_BASE || "http://localhost:8000";
-
-export async function GET() {
+export async function GET(req: NextRequest) {
   try {
-    const res = await fetch(`${ML_API_BASE}/recommend/new-user`, {
-      cache: "no-store",
-    });
+    const { searchParams } = new URL(req.url);
 
-    if (!res.ok) {
-      throw new Error("Failed to fetch from ML service");
+    const page = Number(searchParams.get("page") ?? "1");
+    const limit = Number(searchParams.get("limit") ?? "12");
+
+    const start = (page - 1) * limit;
+    const end = start + limit;
+
+    // ⭐ FIX: Use absolute path (go up one folder)
+    const filePath = path.join(
+      process.cwd(),         // web/
+      "..",                  // go out of web/
+      "ml",
+      "data",
+      "processed",
+      "product_catalog.json"
+    );
+
+    console.log("Loading catalog from:", filePath);
+
+    if (!fs.existsSync(filePath)) {
+      console.error("Catalog NOT FOUND!");
+      return NextResponse.json({ error: "catalog missing" }, { status: 500 });
     }
 
-    const data = await res.json();
-    return NextResponse.json(data);
+    const raw = fs.readFileSync(filePath, "utf8");
+    const products = JSON.parse(raw);
+
+    console.log("Total products:", products.length);
+
+    const slice = products.slice(start, end);
+
+    return NextResponse.json({
+      page,
+      hasMore: end < products.length,
+      products: slice,
+    });
   } catch (err) {
-    console.error(err);
-    return NextResponse.json(
-      { error: "Failed to get recommendations" },
-      { status: 500 }
-    );
+    console.error("RECOMMEND API ERROR:", err);
+    return NextResponse.json({ error: "server error" }, { status: 500 });
   }
 }
