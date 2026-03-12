@@ -34,7 +34,7 @@ export default async function ContextualPage({
 }: {
   params: { id: string };
 }) {
-  const { id } = params;
+  const { id } = await params;
   const rec = await getContextualRecommendations(id);
 
   if (!rec) {

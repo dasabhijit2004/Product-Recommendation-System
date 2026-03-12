@@ -14,7 +14,13 @@ import json
 
 from src.inference.semantic_search import semantic_search
 
+from src.recommendation.tfidf_similarity import TFIDFSimilarityEngine
+
 PRODUCTS_PATH = "data/processed/products_with_scores.csv"
+
+CATALOG_PATH = "data/processed/product_catalog.json"
+
+similarity_engine = TFIDFSimilarityEngine()
 
 app = FastAPI(title="Product Recommendation ML API")
 
@@ -63,16 +69,14 @@ def recommend_existing_user(payload: ExistingUserRequest):
 
 @app.post("/recommend/contextual")
 def recommend_contextual(payload: ContextualRequest):
+    product_id = payload.product_id
+
+    similar_products = similarity_engine.get_similar_products(product_id)
+
     return {
-        "product_id": payload.product_id,
-        "similar": [
-            {"id": "lap-111", "name": "Similar Laptop A"},
-            {"id": "lap-222", "name": "Similar Laptop B"},
-        ],
-        "accessories": [
-            {"id": "bag-10", "name": "Laptop Bag"},
-            {"id": "cool-10", "name": "Cooling Pad"},
-        ],
+        "product_id": product_id,
+        "similar": similar_products,
+        "accessories": []  
     }
 
 @app.get("/products/{product_id}")
