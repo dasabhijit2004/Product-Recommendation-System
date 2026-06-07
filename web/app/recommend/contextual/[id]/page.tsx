@@ -8,6 +8,7 @@ type ContextualProduct = {
 
 type ContextualResponse = {
   product_id: string;
+  product_name: string;
   similar: ContextualProduct[];
   accessories: ContextualProduct[];
 };
@@ -48,7 +49,7 @@ export default async function ContextualPage({
   return (
     <main className="min-h-screen bg-slate-950 text-slate-50 p-10">
       <h1 className="text-3xl font-bold mb-6">
-        Recommendations Based on "{id}"
+        Recommendations Based on "{rec.product_name}"
       </h1>
 
       {/* SIMILAR PRODUCTS */}
@@ -79,7 +80,7 @@ export default async function ContextualPage({
       </div>
 
       {/* ACCESSORIES */}
-      <h2 className="text-xl font-semibold mb-3">Related Accessories</h2>
+      {/* <h2 className="text-xl font-semibold mb-3">Related Accessories</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
         {rec.accessories.map((p) => (
           <div
@@ -97,7 +98,7 @@ export default async function ContextualPage({
             </Link>
           </div>
         ))}
-      </div>
+      </div> */}
     </main>
   );
 }
