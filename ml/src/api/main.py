@@ -33,6 +33,16 @@ class ExistingUserRequest(BaseModel):
 
 class ContextualRequest(BaseModel):
     product_id: str
+    
+def get_product_name(product_id: str):
+    with open(CATALOG_PATH, "r", encoding="utf-8") as f:
+        catalog = json.load(f)
+
+    for p in catalog:
+        if p["product_id"] == product_id:
+            return p.get("name")
+
+    return None
 
 
 @app.get("/health")
@@ -73,10 +83,13 @@ def recommend_contextual(payload: ContextualRequest):
 
     similar_products = similarity_engine.get_similar_products(product_id)
 
+    product_name = get_product_name(product_id)
+
     return {
         "product_id": product_id,
+        "product_name": product_name,
         "similar": similar_products,
-        "accessories": []  
+        "accessories": []
     }
 
 @app.get("/products/{product_id}")

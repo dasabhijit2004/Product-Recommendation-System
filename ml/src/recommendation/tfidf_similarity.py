@@ -35,7 +35,7 @@ class TFIDFSimilarityEngine:
         # Cosine similarity matrix
         self.similarity_matrix = cosine_similarity(self.tfidf_matrix)
 
-    def get_similar_products(self, product_id, top_n=6):
+    def get_similar_products(self, product_id, top_n=20):
         if product_id not in self.product_ids:
             return []
 
