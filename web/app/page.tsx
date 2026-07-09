@@ -38,7 +38,7 @@ export default function HomePage() {
 
       {hasMore && (
         <div ref={loaderRef} className="h-10 mt-10 text-center text-slate-400">
-          Loading more…
+          Loading products…
         </div>
       )}
     </main>

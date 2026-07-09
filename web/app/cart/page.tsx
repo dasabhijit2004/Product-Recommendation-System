@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function CartPage() {
   const [items, setItems] = useState<any[]>([]);
@@ -97,6 +98,21 @@ export default function CartPage() {
           <div className="text-right text-2xl font-bold mt-6">
             Grand Total: ₹{total.toLocaleString()}
           </div>
+
+          <Link
+            href="/checkout"
+            className="
+              inline-block
+              mt-6
+              bg-green-500
+              text-black
+              px-6
+              py-3
+              rounded
+              "
+          >
+            Proceed To Checkout
+          </Link>
         </div>
       )}
     </div>

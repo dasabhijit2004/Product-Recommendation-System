@@ -32,7 +32,7 @@ export default async function ProductPage(props: { params: Promise<{ id: string 
       <ViewTracker productId={id} />
 
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10">
-        
+
         {/* IMAGE SECTION */}
         <div>
           <div className="relative w-full h-96 rounded-xl overflow-hidden shadow-lg">
@@ -80,7 +80,6 @@ export default async function ProductPage(props: { params: Promise<{ id: string 
 
           {/* BUTTONS */}
           <div className="mt-10 flex gap-4">
-            <BuyButton productId={id} />
 
             <Link
               href={`/recommend/contextual/${id}`}
