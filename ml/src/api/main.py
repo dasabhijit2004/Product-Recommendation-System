@@ -16,6 +16,13 @@ from src.inference.semantic_search import semantic_search
 
 from src.recommendation.tfidf_similarity import TFIDFSimilarityEngine
 
+from src.recommendation.related_tfidf import RelatedTFIDFEngine
+
+from src.recommendation.frequently_bought import (
+    get_frequently_bought_together
+)
+
+
 PRODUCTS_PATH = "data/processed/products_with_scores.csv"
 
 CATALOG_PATH = "data/processed/product_catalog.json"
@@ -24,6 +31,7 @@ similarity_engine = TFIDFSimilarityEngine()
 
 app = FastAPI(title="Product Recommendation ML API")
 
+related_engine = RelatedTFIDFEngine()
 
 class ExistingUserRequest(BaseModel):
     user_id: str
@@ -117,3 +125,23 @@ def search_products(q: str, limit: int = 20):
     results = semantic_search(q, top_k=limit)
     return {"products": results}
 
+@app.post("/recommend/related")
+def recommend_related(payload: ContextualRequest):
+
+    return {
+        "product_id": payload.product_id,
+        "related": related_engine.get_related_products(
+            payload.product_id
+        )
+    }
+    
+    
+@app.post("/recommend/fbt")
+def recommend_fbt(payload: ContextualRequest):
+
+    return {
+        "product_id": payload.product_id,
+        "products": get_frequently_bought_together(
+            payload.product_id
+        ),
+    }
