@@ -1,46 +1,37 @@
-"use client";
+import Link from "next/link";
 
-import { useEffect, useState } from "react";
-import useInfiniteScroll from "@/hooks/useInfiniteScroll";
-import ProductCard from "@/components/ProductCard";
-
-export default function HomePage() {
-  const [products, setProducts] = useState<any[]>([]);
-  const [page, setPage] = useState(1);
-  const [hasMore, setHasMore] = useState(true);
-
-  async function loadMore() {
-    if (!hasMore) return;
-
-    const res = await fetch(`/api/recommendations?page=${page}&limit=12`);
-    const data = await res.json();
-
-    setProducts((prev) => [...prev, ...data.products]);
-    setHasMore(data.hasMore);
-    setPage(page + 1);
-  }
-
-  const loaderRef = useInfiniteScroll(loadMore);
-
-  useEffect(() => {
-    loadMore();
-  }, []);
-
+export default function LandingPage() {
   return (
-    <main className="min-h-screen bg-slate-950 text-white p-10">
-      <h1 className="text-3xl font-bold mb-6">Recommended for You</h1>
+    <main className="min-h-screen bg-slate-950 flex items-center justify-center">
+      <div className="text-center">
 
-      <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
-        {products.map((p) => (
-          <ProductCard key={p.product_id} product={p} />
-        ))}
-      </div>
+        <h1 className="text-5xl font-bold text-white mb-4">
+          AI Product Recommendation System
+        </h1>
 
-      {hasMore && (
-        <div ref={loaderRef} className="h-10 mt-10 text-center text-slate-400">
-          Loading products…
+        <p className="text-slate-400 mb-12">
+          Choose your recommendation experience
+        </p>
+
+        <div className="flex gap-8 justify-center">
+
+          <Link
+            href="/recommend/new"
+            className="px-10 py-5 rounded-xl bg-sky-500 text-black text-xl font-semibold hover:bg-sky-400"
+          >
+            New User
+          </Link>
+
+          <Link
+            href="/recommend/existing"
+            className="px-10 py-5 rounded-xl bg-emerald-500 text-black text-xl font-semibold hover:bg-emerald-400"
+          >
+            Existing User
+          </Link>
+
         </div>
-      )}
+
+      </div>
     </main>
   );
 }
