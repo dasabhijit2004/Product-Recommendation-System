@@ -55,9 +55,16 @@ class TFIDFSimilarityEngine:
         for i, score in top_matches:
             product = self.products[i]
             results.append({
-                "id": product["product_id"],
-                "name": product["name"],
-                "final_score": round(float(score), 4)
-            })
+            "product_id": product["product_id"],
+            "name": product["name"],
+            "brand": product["brand"],
+            "categories": product["categories"],
+            "avg_rating": product["avg_rating"],
+            "num_reviews": product["num_reviews"],
+            "sentiment_score": product["sentiment_score"],
+            "price": product["price"],
+            "image_url": product.get("image_url", "/placeholder.png"),
+            "final_score": round(float(score), 4)
+        })
 
         return results

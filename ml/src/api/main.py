@@ -35,9 +35,8 @@ related_engine = RelatedTFIDFEngine()
 
 class ExistingUserRequest(BaseModel):
     user_id: str
-    recent_product_ids: List[str] = []
-    recent_search_terms: List[str] = []
-
+    recent_product_ids: list[str]
+    recent_search_terms: list[str] = []
 
 class ContextualRequest(BaseModel):
     product_id: str
@@ -75,15 +74,48 @@ def recommend_new_user(limit: int = 10):
 
 @app.post("/recommend/existing-user")
 def recommend_existing_user(payload: ExistingUserRequest):
+
+    purchased = set(payload.recent_product_ids)
+
+    scores = {}
+
+    for pid in payload.recent_product_ids:
+
+        similar = similarity_engine.get_similar_products(pid, top_n=10)
+
+        for item in similar:
+
+            product_id = item["product_id"]   # ✅ changed
+
+            if product_id in purchased:
+                continue
+
+            if product_id not in scores:
+                scores[product_id] = {
+                    "product_id": product_id,
+                    "name": item["name"],
+                    "brand": item["brand"],
+                    "categories": item["categories"],
+                    "avg_rating": item["avg_rating"],
+                    "num_reviews": item["num_reviews"],
+                    "sentiment_score": item["sentiment_score"],
+                    "price": item["price"],
+                    "image_url": item.get("image_url", "/placeholder.png"),
+                    "final_score": 0,
+                }
+
+            scores[product_id]["final_score"] += item["final_score"]
+
+    recommendations = sorted(
+        scores.values(),
+        key=lambda x: x["final_score"],
+        reverse=True,
+    )
+
     return {
         "user_id": payload.user_id,
-        "products": [
-            {"id": "lap-123", "name": "Suggested Laptop"},
-            {"id": "mouse-45", "name": "Wireless Mouse"},
-            {"id": "kb-21", "name": "Mechanical Keyboard"},
-        ],
+        "recommendations": recommendations[:12],
     }
-
 
 @app.post("/recommend/contextual")
 def recommend_contextual(payload: ContextualRequest):
